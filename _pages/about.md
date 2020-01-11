@@ -17,7 +17,7 @@ Upon completion of this course, you should be able to
 
 ***
 
-- **Time:** Tuesday/Thursday 3:00-4:20pm
+- **Lectures:** Tuesday/Thursday 3:00-4:20pm
 - **Recitations:** Friday 1:50-2:30 pm
 - **Location:** [Gates-Hillman Center 4215](https://goo.gl/maps/74vUj6uoaTTzYM937){:target="\_blank"}
 - **Discussion:** [Piazza](https://piazza.com/class/jzeuvsh15mo3pu){:target="\_blank"}

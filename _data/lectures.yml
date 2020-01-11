@@ -2,7 +2,7 @@
   lecturer:
   title: >
     <strong>Introduction to Reinforcement Learning and Representation Learning</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_1.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_1.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af64778a-feec-4aee-bf3c-aab500f2d03a
   notes:
   readings:
@@ -14,7 +14,7 @@
   lecturer:
   title: >
     <strong>Evolutionary methods for policy search</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_2.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_2.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb36184f-8f73-4880-9751-aab500f4b44e
   notes:
   readings:
@@ -27,8 +27,8 @@
   lecturer:
   title: >
     <strong>REC: Tensorflow, Keras, OpenAI Gym</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_2_1.pdf
-  slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_2_2.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_2_1.pdf
+  # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_2_2.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb36184f-8f73-4880-9751-aab500f4b44e
   notes:
   readings:
@@ -41,7 +41,7 @@
   lecturer:
   title: >
     <strong>Evolutionary methods for multi-policy multi-environment search, experiment design with Gaussian processes</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_3.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_3.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb36184f-8f73-4880-9751-aab500f4b44e
   notes:
   readings:
@@ -55,7 +55,7 @@
   lecturer:
   title: >
     <strong>Behavior Cloning and more Evolutionary Strategies</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_3.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_3.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c5801274-b661-4677-adb9-aab500f4ccf5
   notes:
   readings:
@@ -69,8 +69,8 @@
   lecturer:
   title: >
     <strong>REC: Generative models, variational autoencoders, generative adversarial networks</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_2_1.pdf
-  slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_2_2.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_2_1.pdf
+  # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_2_2.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb36184f-8f73-4880-9751-aab500f4b44e
   notes:
   readings:
@@ -81,20 +81,20 @@
   lecturer:
   title: >
     <strong>Generative adversarial networks, generative adversarial imitation learning</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_4_1.pdf
-  slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_4_2.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_4_1.pdf
+  # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_4_2.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c5801274-b661-4677-adb9-aab500f4ccf5
   notes:
   readings:
     - Goodfellow et al. <a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf" target="_blank">Generative Adversarial Networks</a>
     - Ho et al. <a href="https://arxiv.org/abs/1606.03476" target="_blank">Generative Adversarial Imitation Learning</a>
-  logistics: <span class="deadline">HW1 out</span> <br>
+  logistics: <span class="event">HW1 out</span> <br>
 
 - date: Th 01/30
   lecturer:
   title: >
     <strong>MDPs and dynamic programming</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_5.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_5.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=40a34b64-98bd-4c24-9a6c-aab500f4f593
   notes:
   readings:
@@ -116,8 +116,8 @@
   lecturer:
   title: >
     <strong>MDPs, dynamic programming, Monte Carlo learning</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_7_1.pdf
-  slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_7_2.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_7_1.pdf
+  # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_7_2.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89548167-eeb4-441c-b558-aab500f51db9
   notes:
   readings:
@@ -127,7 +127,7 @@
   lecturer:
   title: >
     <strong>Monte Carlo/Temporal difference learning</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_8.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_8.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=754eb6c0-72ca-4912-93f1-aad101060954
   notes:
   readings:
@@ -149,7 +149,7 @@
   lecturer:
   title: >
     <strong>Deep Q learning</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_9_1.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_9_1.pdf
   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_9_2.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e89485b7-c572-4adb-bf48-aad3011e65a5
   notes:
@@ -164,7 +164,7 @@
   title: >
     <strong>Exploration-exploitation in multi-armed bandits</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_10_1.pdf
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_10_2.pdf
+  # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_10_2.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8062af26-5900-432c-9d01-aab500f554e0
   notes:
   readings:
@@ -176,8 +176,8 @@
   lecturer:
   title: >
     <strong>REC: HW2</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_4_1.pdf
-  slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_4_2.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_4_1.pdf
+  # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_4_2.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb36184f-8f73-4880-9751-aab500f4b44e
   notes:
   readings:
@@ -188,7 +188,7 @@
   lecturer:
   title: >
     <strong>Planning with known models, Monte Carlo Tree Search (MCTS)</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_15.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_15.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c13b556-1d74-46c2-8665-aae8010779cf
   notes:
   readings:
@@ -200,15 +200,15 @@
   lecturer:
   title: >
     <strong>Policy gradients, actor-critic methods</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_11.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=131de8e3-a760-4ff1-9802-aad80108eaa7
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_11.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=131de8e3-a760-4ff1-9802-aad80108eaa7
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
     - Mnih et al. <a href="https://arxiv.org/abs/1602.01783" target="_blank">Asynchronous Methods for Deep Reinforcement Learning</a>
     - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-deep-neural-networks-tree-search/" target="_blank">Mastering the Game of Go with Deep Neural Networks and Tree Search</a>
     - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge/" target="_blank">Mastering the Game of Go without Human Knowledge</a>
-  logistics: <span class="deadline">HW1 due</span> <br><span class="deadline">HW2 out</span> <br>
+  logistics: <span class="deadline">HW1 due</span> <br><span class="event">HW2 out</span> <br>
 
 - date: F 02/21
   lecturer:
@@ -226,8 +226,8 @@
   lecturer:
   title: >
     <strong>Actor-Critic Methods, Deterministic policy gradients</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_12_1.pdf
-  slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_12_2.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_12_1.pdf
+  # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_12_2.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e7cbf9d-6e81-4e7b-9093-aad80108fb94
   notes:
   readings:
@@ -240,7 +240,7 @@
   lecturer:
   title: >
     <strong>Natural Policy Gradients, Proximal Policy Optimization</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_14.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_14.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=47c40d4c-113b-4151-a407-aae60106ef6c
   notes:
   readings:
@@ -265,7 +265,7 @@
   lecturer:
   title: >
     <strong>Maximum Entropy RL</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_19.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_19.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3cb27113-367b-41c3-9e32-aafd01183506
   notes:
   readings:
@@ -278,8 +278,8 @@
   lecturer:
   title: >
     <strong>Goal-conditioned policies, goal relabelling</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_13_1.pdf
-  slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_13_2.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_13_1.pdf
+  # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_13_2.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c186a7b-4ddd-4e44-83a8-aad801090aa3
   notes:
   readings:
@@ -322,7 +322,7 @@
   lecturer:
   title: >
     <strong>Model learning and model-based RL in low dim state space</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_16.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_16.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f68ee964-49b6-4a30-a32d-aaed01072cda
   notes:
   readings:
@@ -337,7 +337,7 @@
   lecturer:
   title: >
     <strong>REC: Graph Neural Networks</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_17.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_17.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f68ee964-49b6-4a30-a32d-aaed01072cda
   notes:
   readings:
@@ -349,7 +349,7 @@
   lecturer: 
   title: >
     <strong>Model learning and model-based RL in high dimensional sensory space</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_17.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_17.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f5af510-f977-4634-8820-aaf80108ee41
   notes:
   readings:
@@ -357,14 +357,14 @@
     - Ebert et al. <a href="https://arxiv.org/abs/1710.05268" target="_blank">Self-Supervised Visual Planning with Temporal Skip Connections</a>
     - Hafner et al. <a href="https://arxiv.org/pdf/1811.04551.pdf" target="_blank">Learning Latent Dynamics for Planning from Pixels</a>
     - Kipf et al. <a href="https://arxiv.org/abs/1911.12247" target="_blank">Contrastive Learning of Structured World Models</a>
-  logistics: <span class="event">HW3 due</span>
+  logistics: <span class="deadline">HW3 due</span>
     <span class="event">HW4 out</span>
 
 - date: Th 03/26
   lecturer:
   title: >
     <strong>Inverse graphics architectures for model learning and Instruction Following</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_22.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_22.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=605352cc-987b-427b-b619-ab090117c673
   notes:
   readings:
@@ -384,7 +384,7 @@
   lecturer:
   title: >
     <strong>Learning from demonstations and task rewards</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_23.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_23.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fc89c296-5db3-4af2-bf14-ab0b0117a22c
   notes:
   readings:
@@ -399,12 +399,12 @@
   lecturer:
   title: >
     <strong>iLQR, policy learning from imitating local controllers</strong>
-  slides:  https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_18.pdf
+  # slides:  https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_18.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=62a2bfc9-5fc1-4c7f-8174-aafb01168b08
   notes:
   readings:
     - Levine et al. <a href="https://graphics.stanford.edu/projects/gpspaper/gps_full.pdf" target="_blank">Guided Policy Search</a>
-  logistics: <span class="event">HW4 due</span>
+  logistics: <span class="deadline">HW4 due</span>
     <span class="event">HW5 out</span>
 
 - date: F 04/03
@@ -419,7 +419,7 @@
   lecturer:
   title: >
     <strong>Curiosity-driven and map-driven exploration</strong>
-  slides: 
+  # slides: 
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f07c1590-eb15-44cb-95bc-aaf401210c76
   notes:
   readings:
@@ -434,7 +434,7 @@
   lecturer:
   title: >
     <strong>Learning from visual demonstations (visual imitation)</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_20.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_20.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a36ec736-d6d4-4f98-ad6d-ab020117bf36
   notes:
   readings:
@@ -454,7 +454,7 @@
   lecturer:
   title: >
     <strong>Generalization in RL, Sim2Real transfer</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_21.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_21.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=009effc6-07f3-4f77-a159-ab0401168eb3
   notes:
   readings:
@@ -482,20 +482,20 @@
   lecturer:
   title: >
     <strong>Meta-Learning, fast learning within few interactions, learning to learn fast</strong>
-  slides:
+  # slides:
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff2821b7-569d-48e6-94cf-ab10011857b4
   notes:
   readings:
     - Botvinick et al. <a href="https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0" target="_blank">Reinforcement Learning, Fast and Slow</a>
     - Duan et al. <a href="https://arxiv.org/abs/1611.02779" target="_blank">RL2&#58; Fast Reinforcement Learning via Slow Reinforcement Learning</a>
     - Clavera et al. <a href="https://pdfs.semanticscholar.org/39ce/85ad322571b1bdc1d79ee10b9d608960374c.pdf?_ga=2.252655307.391011989.1574704506-1067889836.1572744668" target="_blank">Learning to Adapt&#58; Meta-Learning for Model-Based Control</a>
-  logistics: <span class="event">HW5 due</span>
+  logistics: <span class="deadline">HW5 due</span>
 
 - date: Th 04/23
   lecturer:
   title: >
     <strong>Instruction following, learning to act from language supervision</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_25.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_25.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff2821b7-569d-48e6-94cf-ab10011857b4
   notes:
   readings:
