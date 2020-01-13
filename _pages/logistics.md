@@ -18,25 +18,18 @@ title: Logistics
 
 Chapters from these two texts, as well as relevant academic papers, will be referenced alongside each lecture, under the [Lectures]({{ "/lectures" | relative_url }}) section. 
 
-We strongly recommend that you read these as the semester progresses, to help you understand the concepts and algorithms taught in class (note that the material of the class goes beyond these books). 
+The papers and chapters linked to each lecture are required unless noted as optional. They are instrumental to help you understand the concepts and algorithms taught in class.
 
 If you want additional resources which contain parts of the course material, we recommend the following:
-
-#### General References
-
-- [Szepesvari, Algorithms for Reinforcement Learning](http://www.ualberta.ca/~szepesva/RLBook.html)
-- [Bertsekas, Dynamic Programming and Optimal Control, Vols I and II](http://www.athenasc.com/dpbook.html)
-- [Puterman, Markov Decision Processes: Discrete Stochastic Dynamic Programming](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471727822.html)
-- [Powell, Approximate Dynamic Programming](http://adp.princeton.edu/)
 
 #### Online courses
 
 - [David Silver's class: Reinforcement learning](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
-- [Rich Sutton's class: Reinforcement Learning for Artificial Intelligence, Fall 2016](http://incompleteideas.net/sutton/609%20dropbox/)
-- [John Schulman's and Pieter Abeel's class: Deep Reinforcement Learning, Fall 2015](http://rll.berkeley.edu/deeprlcourse-fa15/)
-- [Sergey Levine's, Chelsea Finn's and John Schulman's class: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
-- [Pieter Abeel's class: Advanced Robotics, Fall 2015](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa15/)
-- [Emo Todorov's class: Intelligent control through learning and optimization, Spring 2015](http://homes.cs.washington.edu/~todorov/courses/amath579/index.html)
+- [Nando de Freitas: Machine Learning, 2013](https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
+
+#### Recitations
+
+Recitations are usually given by TAs and their goal is to cover background material needed to understand the course, as well as to provide help for homeworks. You can control the material of the recitations every week by posting on Piazza the topics you wish to be discussed on friday's recitation. Take advantage of this privilege to better tailor the course to your needs. Since neither lectures nor recitations are recorded this semester, your physical presence is necessary for both, for you to optimize your learning experience.
 
 ***
 
@@ -46,11 +39,13 @@ Piazza is intended for all announcements, general questions about the course, cl
 
 We strongly encourage all students to participate in discussion, ask, and answer questions in class as well as through Piazza!
 
+We strongly encourage all students to form reading groups for joint study of the papers and the materials, to make the semester more fun and more productive.
+
 ***
 
 ### Grading
 
-The class requirements include *5 homework assignments* (50% of the grade) and *2 quizzes* (50% of the grade). By the end of this class you should have a good understanding of the basic methodologies in deep reinforcement learning, and be able to use them to solve real problems of modest complexity.
+The class requirements include *5 homework assignments* (60% of the grade) and *2 quizzes* (40% of the grade). By the end of this class you should have a good understanding of the basic methodologies in deep reinforcement learning, and be able to use them to solve real problems of modest complexity.
 
 The entirety of your course grade will be based on the performance in the homework assignments and the quizzes.
 
@@ -60,10 +55,9 @@ Individual homeworks may NOT necessarily be worth the same percentage. **Some ho
 
 ### Homework Assignments
 
-There will be 5 homework assignments over the course of the semester. For each, you may work in groups of up to three students total. Only one person should submit the writeup and code on Gradescope. Additionally you should upload your code to Autolab. Please make sure **the same person who submitted the writeup and code to Gradescope is the one who submits it to Autolab**. Make sure you **mark your partner as a collaborator on Gradescope** (you do not need to do this in Autolab) and that both names are listed in the writeup.
+There will be 5 homework assignments over the course of the semester. For each, you may work in groups of up to three students total. Only one person should submit the writeup and code on Gradescope. Make sure you **mark your partner/s as a collaborators on Gradescope** and that all names are listed in the writeup.
 
-These assignments may contain material that has been covered by published papers and webpages.
-This is a graduate class and we expect students to solve the problems themselves rather than search for answers.
+These assignments may contain material that has been covered by published papers and webpages. We expect students to solve the problems themselves rather than search for answers.
 
 Students are required to **typeset written homework solutions using $$\LaTeX$$ and the provided template**, and submit as PDF. All code, including auxiliary scripts used for testing should be submitted with a README file to explain/document them.
 
@@ -171,7 +165,7 @@ In general, we do not grant extensions on assignments. There are several excepti
 
 - **University-Approved Absences:** If you are attending an out-of-town university approved event (e.g. multi-day athletic/academic trip organized by the university), you may request an extension for the duration of the trip. You must provide confirmation of your attendance, usually from a faculty or staff organizer of the event.
 
-For any of the above situations, you may request an extension by emailing [Shreyan](mailto:shreyanb@andrew.cmu.edu). The email should be sent as soon as you are aware of the conflict and **at least 5 days prior to the deadline**. In the case of an emergency, no notice is needed.
+For any of the above situations, you may request an extension by emailing [Ganesh](mailto:giyer@andrew.cmu.edu). The email should be sent as soon as you are aware of the conflict and **at least 5 days prior to the deadline**. In the case of an emergency, no notice is needed.
 
 ***
 
@@ -189,17 +183,7 @@ What grade is the cutoff for Pass will depend on your program. Be sure to check 
 
 - Unofficial auditing of the course (i.e. watching the lectures online or attending them in person, but not turning in homeworks to grade) is welcome and permitted without prior approval. We give priority to students who are officially registered for the course, so informal auditors may only take a seat in the classroom **if there is one available 10 minutes after the start of class**. Unofficial auditors will not be given access to course materials such as homework assignments and exams.
 
-- Please email [Shreyan](mailto:shreyanb@andrew.cmu.edu) if you need further clarification.
-
-***
-
-### Online and Waitlisted Students
-
-- All lecture videos will be recorded and made available online.  We are currently working with the administration to try and create an online section for this course (10-703 B) so that we can work on getting everybody off of the waitlist and officially enrolled.  Please be patient, as this may take time to complete.  Past experience suggests that there will be sufficient seats in the classroom for everybody who wants to take the course, so we are optimistic that all students on the waitlist are likely to be able to register within the first few weeks.
-
-- Waitlisted students should complete all homework assignments with the rest of the class.
-
-- The first couple lectures are likely to be quite full -- so it'd be best for waitlist students to use the livestream. We'll let you know when seats start to become available. Once that happens, you are welcome to take a **physical seat** (GHC 4401) if there is an open one **5 minutes after class has started** (i.e. 12:05pm onwards)
+- Please email [Ganesh](mailto:giyer@andrew.cmu.edu) if you need further clarification.
 
 ***
 
@@ -213,7 +197,7 @@ Students with timing conflicts (i.e., who have another class offered at the same
 
 ### Accommodations for Students with Disabilities
 
-If you have a disability and have an accommodations letter from the Disability Resources office, please discuss your accommodation needs with [Shreyan](mailto:shreyanb@andrew.cmu.edu) or one of the instructors as early in the semester as possible. We will work with you to ensure that accommodations are provided as appropriate.
+If you have a disability and have an accommodations letter from the Disability Resources office, please discuss your accommodation needs with [Ganesh](mailto:giyer@andrew.cmu.edu) or one of the instructors as early in the semester as possible. We will work with you to ensure that accommodations are provided as appropriate.
 
 If you suspect that you may have a disability and would benefit from accommodations but are not yet registered with the Office of Disability Resources, we encourage you to contact them at [access@andrew.cmu.edu](access@andrew.cmu.edu).
 
