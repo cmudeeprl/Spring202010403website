@@ -2,7 +2,7 @@
   lecturer:
   title: >
     <strong>Introduction to Reinforcement Learning and Representation Learning</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_1.pdf
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture1_introS20.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af64778a-feec-4aee-bf3c-aab500f2d03a
   notes:
   readings:
