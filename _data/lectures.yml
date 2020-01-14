@@ -6,7 +6,7 @@
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af64778a-feec-4aee-bf3c-aab500f2d03a
   notes:
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch1, Ch15
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch1
     - Smith & Gasser. <a href="http://cogs.indiana.edu/~cogdev/labwork/6_lessons.pdf" target="_blank">The Development of Embodied Cognition - Six Lessons from Babies</a>
   logistics:
 
@@ -26,15 +26,15 @@
 - date: F 01/17
   lecturer:
   title: >
-    <strong>REC: Tensorflow, Keras, OpenAI Gym</strong>
+    <strong>REC: Introduction to Deep Learning, Convolutional Neural Networks, Recurrent Neural Networks</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_2_1.pdf
   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_2_2.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb36184f-8f73-4880-9751-aab500f4b44e
   notes:
   readings:
-    - <a href="http://gym.openai.com/docs/" target=  "_blank">OpenAI Gym Documentation</a>
-    - <a href="https://www.tensorflow.org/guide/low_level_intro" target=  "_blank">The TensorFlow Low Level API</a>
-    - <a href="https://www.tensorflow.org/guide/keras" target=  "_blank">The TensorFlow High Level (Keras) API</a>
+    # - <a href="http://gym.openai.com/docs/" target=  "_blank">OpenAI Gym Documentation</a>
+    # - <a href="https://www.tensorflow.org/guide/low_level_intro" target=  "_blank">The TensorFlow Low Level API</a>
+    # - <a href="https://www.tensorflow.org/guide/keras" target=  "_blank">The TensorFlow High Level (Keras) API</a>
   logistics:
 
 - date: T 01/21
