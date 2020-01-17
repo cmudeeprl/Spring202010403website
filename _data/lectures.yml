@@ -27,7 +27,7 @@
   lecturer:
   title: >
     <strong>REC: Introduction to Deep Learning, Convolutional Neural Networks, Recurrent Neural Networks</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_2_1.pdf
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_rec1.pdf
   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_2_2.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb36184f-8f73-4880-9751-aab500f4b44e
   notes:
