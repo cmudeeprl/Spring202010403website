@@ -41,7 +41,7 @@
   lecturer:
   title: >
     <strong>Exploration-exploitation in experiment design, Bayesian optimization</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_3.pdf
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture3.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb36184f-8f73-4880-9751-aab500f4b44e
   notes:
   readings:
