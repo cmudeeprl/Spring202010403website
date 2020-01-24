@@ -45,11 +45,11 @@ title: Schedule
             {% if lecture.annotated %}
               (<a href="{{ lecture.annotated }}" target="_blank">annotated</a>)
             {% endif %}
-            <!-- {% if lecture.video %}
+            {% if lecture.video %}
             | <a href="{{ lecture.video }}" target="_blank">video</a>
             {% else %}
-            | video
-            {% endif %} -->
+            <!-- | video -->
+            {% endif %}
             {% if lecture.notes %}
             | <a href="{{ lecture.notes }}" target="_blank">notes</a>
             {% endif %}
