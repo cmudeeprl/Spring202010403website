@@ -74,7 +74,7 @@
     <strong>REC: OpenAI Gym, Tensorflow</strong>
   slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_rec2_TF.pdf
   slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_rec2_openai.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb36184f-8f73-4880-9751-aab500f4b44e
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58208de1-3996-4957-bf47-ab4c012fc2c5
   notes:
   readings:
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
