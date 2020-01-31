@@ -113,7 +113,7 @@
   notes:
   readings:
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
-  logistics:
+  logistics: <span class="event">HW1 out</span> <br>
 
 - date: T 02/04
   lecturer:
@@ -126,7 +126,7 @@
   readings:
     - Goodfellow et al. <a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf" target="_blank">Generative Adversarial Networks</a>
     - Ho et al. <a href="https://arxiv.org/abs/1606.03476" target="_blank">Generative Adversarial Imitation Learning</a>
-  logistics: <span class="event">HW1 out</span> <br>
+  logistics: 
 
 - date: Th 02/06
   lecturer:
@@ -182,7 +182,7 @@
   notes:
   readings:
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
-  logistics:
+  logistics: <span class="deadline">HW1 due</span>
 
 
 - date: T 02/18
@@ -209,7 +209,7 @@
   readings:
     - <a href="https://statweb.stanford.edu/~owen/mc/Ch-var-is.pdf" target="_blank">Monte Carlo Theory</a>, 9.1, 9.2
     - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank">Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
-  logistics: <span class="deadline">HW1 due</span> <br><span class="event">HW2 out</span> <br>
+  logistics: <br><span class="event">HW2 out</span> <br>
 
 - date: F 02/21
   lecturer:
