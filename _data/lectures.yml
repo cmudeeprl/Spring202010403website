@@ -109,7 +109,7 @@
   title: >
     <strong>REC: Imitation Learning, Generative models, Generative Adversarial Networks</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_2_1.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb36184f-8f73-4880-9751-aab500f4b44e
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00204c87-df18-4287-bf88-ab53012f6105
   notes:
   readings:
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
@@ -182,7 +182,7 @@
   notes:
   readings:
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
-  logistics: <span class="deadline">HW1 due</span>
+  logistics: <span class="deadline">HW1 due 02/15 11:59pm</span>
 
 
 - date: T 02/18
