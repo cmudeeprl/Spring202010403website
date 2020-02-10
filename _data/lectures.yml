@@ -107,7 +107,7 @@
 - date: F 01/31
   lecturer:
   title: >
-    <strong>REC: Imitation Learning, Generative models, Generative Adversarial Networks</strong>
+    <strong>REC: HW1</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_2_1.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00204c87-df18-4287-bf88-ab53012f6105
   notes:
@@ -118,14 +118,14 @@
 - date: T 02/04
   lecturer:
   title: >
-    <strong>Generative Adversarial Networks, generative adversarial imitation learning</strong>
+    <strong>No lecture</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_4_1.pdf
   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_4_2.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c5801274-b661-4677-adb9-aab500f4ccf5
   notes:
   readings:
-    - Goodfellow et al. <a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf" target="_blank">Generative Adversarial Networks</a>
-    - Ho et al. <a href="https://arxiv.org/abs/1606.03476" target="_blank">Generative Adversarial Imitation Learning</a>
+    # - Goodfellow et al. <a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf" target="_blank">Generative Adversarial Networks</a>
+    # - Ho et al. <a href="https://arxiv.org/abs/1606.03476" target="_blank">Generative Adversarial Imitation Learning</a>
   logistics: 
 
 - date: Th 02/06
@@ -142,9 +142,9 @@
 - date: F 02/07
   lecturer:
   title: >
-    <strong>REC: MDPs and dynamic programming</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_2_1.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb36184f-8f73-4880-9751-aab500f4b44e
+    <strong>REC: Evolutionary Strategies</strong>
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture4.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bacac087-0681-45d9-89e6-ab5a0131a65a
   notes:
   readings:
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
