@@ -94,7 +94,7 @@
   lecturer:
   title: >
     <strong>Imitation learning with behavior cloning and DAGGER</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_3.pdf
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture5.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c5801274-b661-4677-adb9-aab500f4ccf5
   notes:
   readings:
