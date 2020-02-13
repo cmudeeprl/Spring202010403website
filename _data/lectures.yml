@@ -118,7 +118,7 @@
 - date: T 02/04
   lecturer:
   title: >
-    <strong>No lecture</strong>
+    <strong>Lecture Cancelled</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_4_1.pdf
   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_4_2.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c5801274-b661-4677-adb9-aab500f4ccf5
@@ -153,7 +153,59 @@
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
   logistics:
 
+
 - date: T 02/11
+  lecturer:
+  title: >
+    <strong>Imitation Learning</strong>
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture5.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=40a34b64-98bd-4c24-9a6c-aab500f4f593
+  notes:
+  readings:
+    # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
+    - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>
+    - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
+    - Bansal et al. <a href="https://arxiv.org/abs/1812.03079" target="_blank">ChauffeurNet&#58; Learning to Drive by Imitating the Best and Synthesizing the Worst</a>
+  logistics:
+
+
+- date: Th 02/13
+  lecturer:
+  title: >
+    <strong>Imitation Learning</strong>
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture5.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=40a34b64-98bd-4c24-9a6c-aab500f4f593
+  notes:
+  readings:
+    # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
+    - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>
+    - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
+    - Bansal et al. <a href="https://arxiv.org/abs/1812.03079" target="_blank">ChauffeurNet&#58; Learning to Drive by Imitating the Best and Synthesizing the Worst</a>
+  logistics:
+
+# - date: T 02/11
+#   lecturer:
+#   title: >
+#     <strong>MDPs, dynamic programming, Monte Carlo learning</strong>
+#   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_7_1.pdf
+#   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_7_2.pdf
+#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89548167-eeb4-441c-b558-aab500f51db9
+#   notes:
+#   readings:
+#     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4, Ch5
+
+# - date: Th 02/13
+#   lecturer:
+#   title: >
+#     <strong>Monte Carlo/Temporal difference learning</strong>
+#   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_8.pdf
+#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=754eb6c0-72ca-4912-93f1-aad101060954
+#   notes:
+#   readings:
+#     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch4, Ch5, Ch6, Ch7, Ch8
+#   logistics:
+
+- date: F 02/14
   lecturer:
   title: >
     <strong>MDPs, dynamic programming, Monte Carlo learning</strong>
@@ -163,29 +215,19 @@
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4, Ch5
-
-- date: Th 02/13
-  lecturer:
-  title: >
-    <strong>Monte Carlo/Temporal difference learning</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_8.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=754eb6c0-72ca-4912-93f1-aad101060954
-  notes:
-  readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch4, Ch5, Ch6, Ch7, Ch8
-  logistics:
-
-- date: F 02/14
-  lecturer:
-  title: >
-    <strong>REC: MC/TD Learning</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_4_1.pdf
-  # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_4_2.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb36184f-8f73-4880-9751-aab500f4b44e
-  notes:
-  readings:
-    # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
   logistics: <span class="deadline">HW1 due 02/15 11:59pm</span>
+
+# - date: F 02/14
+#   lecturer:
+#   title: >
+#     <strong>REC: MC/TD Learning</strong>
+#   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_4_1.pdf
+#   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_4_2.pdf
+#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb36184f-8f73-4880-9751-aab500f4b44e
+#   notes:
+#   readings:
+#     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
+#   logistics: <span class="deadline">HW1 due 02/15 11:59pm</span>
 
 
 - date: T 02/18
