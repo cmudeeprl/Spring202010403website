@@ -181,80 +181,72 @@
     - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>
     - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
     - Bansal et al. <a href="https://arxiv.org/abs/1812.03079" target="_blank">ChauffeurNet&#58; Learning to Drive by Imitating the Best and Synthesizing the Worst</a>
+    - Goodfellow et al. <a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf" target="_blank">Generative Adversarial Nets</a>
+    - Ho et al. <a href="https://cs.stanford.edu/~ermon/papers/imitation_nips2016_main.pdf" target="_blank">Generative Adversarial Imitation Learning</a>
+    - Doersch et al. <a href="https://arxiv.org/pdf/1606.05908.pdf" target="_blank">Tutorial on Variational Autoencoders</a>
+    
   logistics:
-
-# - date: T 02/11
-#   lecturer:
-#   title: >
-#     <strong>MDPs, dynamic programming, Monte Carlo learning</strong>
-#   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_7_1.pdf
-#   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_7_2.pdf
-#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89548167-eeb4-441c-b558-aab500f51db9
-#   notes:
-#   readings:
-#     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4, Ch5
-
-# - date: Th 02/13
-#   lecturer:
-#   title: >
-#     <strong>Monte Carlo/Temporal difference learning</strong>
-#   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_8.pdf
-#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=754eb6c0-72ca-4912-93f1-aad101060954
-#   notes:
-#   readings:
-#     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch4, Ch5, Ch6, Ch7, Ch8
-#   logistics:
 
 - date: F 02/14
   lecturer:
   title: >
-    <strong>MDPs, dynamic programming, Monte Carlo learning</strong>
+    <strong>MDPs, dynamic programming</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_7_1.pdf
   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_7_2.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89548167-eeb4-441c-b558-aab500f51db9
   notes:
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4, Ch5
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
   logistics: <span class="deadline">HW1 due 02/15 11:59pm</span>
-
-# - date: F 02/14
-#   lecturer:
-#   title: >
-#     <strong>REC: MC/TD Learning</strong>
-#   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_4_1.pdf
-#   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_4_2.pdf
-#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb36184f-8f73-4880-9751-aab500f4b44e
-#   notes:
-#   readings:
-#     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
-#   logistics: <span class="deadline">HW1 due 02/15 11:59pm</span>
-
 
 - date: T 02/18
   lecturer:
   title: >
-    <strong>Deep Q learning</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_9_1.pdf
-  # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_9_2.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e89485b7-c572-4adb-bf48-aad3011e65a5
+    <strong>Monte Carlo/Temporal difference learning</strong>
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_8.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=754eb6c0-72ca-4912-93f1-aad101060954
   notes:
   readings:
-    - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
-    - Hasselt et al. <a href="https://arxiv.org/abs/1509.06461" target="_blank">Deep Reinforcement Learning with Double Q-learning</a>
-    - Shaul et al. <a href="https://arxiv.org/abs/1511.05952" target="_blank">Prioritized Experience Replay</a>
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
   logistics:
 
 - date: Th 02/20
   lecturer:
   title: >
-    <strong>Planning with known models, Monte Carlo Tree Search (MCTS)</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_15.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c13b556-1d74-46c2-8665-aae8010779cf
+    <strong> Function Approximation for Prediction and Control</strong>
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_8.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=754eb6c0-72ca-4912-93f1-aad101060954
   notes:
   readings:
-    - <a href="https://statweb.stanford.edu/~owen/mc/Ch-var-is.pdf" target="_blank">Monte Carlo Theory</a>, 9.1, 9.2
-    - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank">Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
-  logistics: <br><span class="event">HW2 out</span> <br>
+    # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
+  logistics:
+
+
+# - date: T 02/18
+#   lecturer:
+#   title: >
+#     <strong>Deep Q learning</strong>
+#   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_9_1.pdf
+#   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_9_2.pdf
+#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e89485b7-c572-4adb-bf48-aad3011e65a5
+#   notes:
+#   readings:
+#     - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
+#     - Hasselt et al. <a href="https://arxiv.org/abs/1509.06461" target="_blank">Deep Reinforcement Learning with Double Q-learning</a>
+#     - Shaul et al. <a href="https://arxiv.org/abs/1511.05952" target="_blank">Prioritized Experience Replay</a>
+#   logistics:
+
+# - date: Th 02/20
+#   lecturer:
+#   title: >
+#     <strong>Planning with known models, Monte Carlo Tree Search (MCTS)</strong>
+#   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_15.pdf
+#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c13b556-1d74-46c2-8665-aae8010779cf
+#   notes:
+#   readings:
+#     - <a href="https://statweb.stanford.edu/~owen/mc/Ch-var-is.pdf" target="_blank">Monte Carlo Theory</a>, 9.1, 9.2
+#     - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank">Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
+#   logistics: <br><span class="event">HW2 out</span> <br>
 
 - date: F 02/21
   lecturer:
