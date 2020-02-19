@@ -193,8 +193,7 @@
     <strong>MDPs, dynamic programming</strong>
   slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture6.pdf
   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_7_2.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89548167-eeb4-441c-b558-aab500f51db9
-  notes:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=649f64d2-1f6e-4bff-ae65-ab61013355d1
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
   logistics: <span class="deadline">HW1 due 02/15 11:59pm</span>
