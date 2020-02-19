@@ -201,6 +201,7 @@
   slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture6.pdf
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
+  logistics: <br><span class="event">HW2 out</span> <br>
 
 - date: Th 02/20
   lecturer:
@@ -210,12 +211,12 @@
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
-  logistics: <br><span class="event">HW2 out</span> <br>
+  # logistics: <br><span class="event">HW2 out</span> <br>
 
 - date: F 02/21
   lecturer:
   title: >
-    <strong>REC</strong>
+    <strong>REC: MDPs, dynamic programming, HW1 clarifications</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_4_1.pdf
   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_4_2.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb36184f-8f73-4880-9751-aab500f4b44e
@@ -277,19 +278,19 @@
     - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge/" target="_blank">Mastering the Game of Go without Human Knowledge</a>
   logistics: 
 
-- date: Th 02/27
-  lecturer:
-  title: >
-    <strong>Actor-Critic Methods, Deterministic policy gradients</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_12_1.pdf
-  # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_12_2.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e7cbf9d-6e81-4e7b-9093-aad80108fb94
-  notes:
-  readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
-    - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
-    - Fujimoto et al. <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
-  logistics: 
+# - date: Th 02/27
+#   lecturer:
+#   title: >
+#     <strong>Actor-Critic Methods, Deterministic policy gradients</strong>
+#   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_12_1.pdf
+#   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_12_2.pdf
+#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e7cbf9d-6e81-4e7b-9093-aad80108fb94
+#   notes:
+#   readings:
+#     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
+#     - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
+#     - Fujimoto et al. <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
+#   logistics: 
 
 
 - date: F 02/28
