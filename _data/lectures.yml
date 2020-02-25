@@ -210,7 +210,7 @@
   slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture08.pdf
   notes:
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5
   # logistics: <br><span class="event">HW2 out</span> <br>
 
 - date: F 02/21
@@ -233,7 +233,7 @@
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=754eb6c0-72ca-4912-93f1-aad101060954
   notes:
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch6
   logistics:
 
 
