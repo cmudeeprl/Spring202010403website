@@ -356,14 +356,8 @@
   title: >
     Spring Break - No classes
   logistics:
-    
-- date: T 03/17
-  lecturer:
-  title: >
-    <strong>Quiz 1</strong>
-  logistics:
 
-- date: Th 03/19
+- date: T 03/17
   lecturer:
   title: >
     <strong>Goal-conditioned policies, goal relabelling</strong>
@@ -375,6 +369,13 @@
     - Andrychowicz et al. <a href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a>
     - Nair et al. <a href="https://arxiv.org/abs/1807.04742" target="_blank">Visual Reinforcement Learning with Imagined Goals</a>
   logistics: 
+
+
+- date: Th 03/19
+  lecturer:
+  title: >
+    <strong>Quiz 1</strong>
+  logistics:
 
 - date: F 03/20
   lecturer:
