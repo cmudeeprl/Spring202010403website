@@ -237,6 +237,37 @@
   logistics:
 
 
+- date: Th 02/27
+  lecturer:
+  title: >
+    <strong> Function Approximation for Prediction and Control/Deep Q-learning</strong>
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture10.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=754eb6c0-72ca-4912-93f1-aad101060954
+  notes:
+  readings:
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
+    - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
+    - Hasselt et al. <a href="https://arxiv.org/abs/1509.06461" target="_blank">Deep Reinforcement Learning with Double Q-learning</a>
+    - Shaul et al. <a href="https://arxiv.org/abs/1511.05952" target="_blank">Prioritized Experience Replay</a>
+  logistics:
+
+
+- date: F 02/28
+  lecturer:
+  title: >
+    <strong>REC: A practical perspective on Imitation Learning</strong>
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_rec_imitation_learning.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a78e3cfb-9e14-4cdb-a074-ab6f012e7df1
+  notes:
+  readings:
+    # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
+  logistics:
+
+
+
+# ----------------------------- CONDUCTED --------------------------------------------------
+
+
 # - date: T 02/18
 #   lecturer:
 #   title: >
@@ -264,7 +295,7 @@
 #   logistics: <br><span class="event">HW2 out</span> <br>
 
 
-- date: Th 02/27
+- date: Th 03/03
   lecturer:
   title: >
     <strong>Policy gradients, actor-critic methods</strong>
@@ -278,60 +309,49 @@
     - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge/" target="_blank">Mastering the Game of Go without Human Knowledge</a>
   logistics: 
 
-# - date: Th 02/27
-#   lecturer:
-#   title: >
-#     <strong>Actor-Critic Methods, Deterministic policy gradients</strong>
-#   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_12_1.pdf
-#   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_12_2.pdf
-#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e7cbf9d-6e81-4e7b-9093-aad80108fb94
-#   notes:
-#   readings:
-#     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
-#     - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
-#     - Fujimoto et al. <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
-#   logistics: 
-
-
-- date: F 02/28
-  lecturer:
-  title: >
-    <strong>REC: HW2</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_4_1.pdf
-  # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_4_2.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb36184f-8f73-4880-9751-aab500f4b44e
-  notes:
-  readings:
-    # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
-  logistics:
-
-
-- date: T 03/03
-  lecturer:
-  title: >
-    <strong>Natural Policy Gradients, Proximal Policy Optimization</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_14.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=47c40d4c-113b-4151-a407-aae60106ef6c
-  notes:
-  readings:
-    - Rajeswaran et al. <a href="https://arxiv.org/pdf/1703.02660.pdf" target="_blank">Towards Generalization and Simplicity in Continuous Control</a>
-    - Schulman et al. <a href="https://arxiv.org/abs/1707.06347" target="_blank">Proximal Policy Optimization Algorithms</a>
-    - Wu et al. <a href="https://papers.nips.cc/paper/7112-scalable-trust-region-method-for-deep-reinforcement-learning-using-kronecker-factored-approximation.pdf" target="_blank">Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation</a>
-  logistics: 
-
 - date: Th 03/05
   lecturer:
   title: >
-    <strong>Maximum Entropy RL</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_19.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3cb27113-367b-41c3-9e32-aafd01183506
+    <strong>Actor-Critic Methods, Deterministic policy gradients</strong>
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_12_1.pdf
+  # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_12_2.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e7cbf9d-6e81-4e7b-9093-aad80108fb94
   notes:
   readings:
-    - Haarnoja et al. <a href="https://arxiv.org/abs/1812.05905" target="_blank">Soft Actor-Critic Algorithms and Applications</a>
-    - Haarnoja et al. et al. <a href="https://arxiv.org/abs/1702.08165" target="_blank">Reinforcement Learning with Deep Energy-Based Policies</a>
-    - Haarnoja et al. et al. <a href="https://arxiv.org/abs/1801.01290" target="_blank">Soft Actor-Critic&#58; Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor</a>
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
+    - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
+    - Fujimoto et al. <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
   logistics: <span class="deadline">HW2 due</span> <br>
     <span class="event">HW3 out</span>
+
+
+
+
+# - date: T 03/03
+#   lecturer:
+#   title: >
+#     <strong>Natural Policy Gradients, Proximal Policy Optimization</strong>
+#   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_14.pdf
+#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=47c40d4c-113b-4151-a407-aae60106ef6c
+#   notes:
+#   readings:
+#     - Rajeswaran et al. <a href="https://arxiv.org/pdf/1703.02660.pdf" target="_blank">Towards Generalization and Simplicity in Continuous Control</a>
+#     - Schulman et al. <a href="https://arxiv.org/abs/1707.06347" target="_blank">Proximal Policy Optimization Algorithms</a>
+#     - Wu et al. <a href="https://papers.nips.cc/paper/7112-scalable-trust-region-method-for-deep-reinforcement-learning-using-kronecker-factored-approximation.pdf" target="_blank">Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation</a>
+#   logistics: 
+
+# - date: Th 03/05
+#   lecturer:
+#   title: >
+#     <strong>Maximum Entropy RL</strong>
+#   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_19.pdf
+#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3cb27113-367b-41c3-9e32-aafd01183506
+#   notes:
+#   readings:
+#     - Haarnoja et al. <a href="https://arxiv.org/abs/1812.05905" target="_blank">Soft Actor-Critic Algorithms and Applications</a>
+#     - Haarnoja et al. et al. <a href="https://arxiv.org/abs/1702.08165" target="_blank">Reinforcement Learning with Deep Energy-Based Policies</a>
+#     - Haarnoja et al. et al. <a href="https://arxiv.org/abs/1801.01290" target="_blank">Soft Actor-Critic&#58; Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor</a>
+
 
 - date: F 03/06
   lecturer:
