@@ -421,8 +421,7 @@
     - Nagabandi et al. <a href="https://arxiv.org/abs/1708.02596" target="_blank">Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning</a>
     - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
     - Pong et al. <a href="https://arxiv.org/pdf/1802.09081.pdf" target="_blank">Temporal Difference Models:Model-free deep RL for Model-Based Control</a>
-  logistics: <span class="deadline">HW3 due</span>
-    <span class="event">HW4 out</span>
+  logistics:
 
 - date: Th 03/26
   lecturer: 
@@ -441,10 +440,11 @@
 - date: F 03/27
   lecturer:
   title: >
-    <strong>REC: HW3</strong>
+    <strong>REC</strong>
   notes:
   readings:
-  logistics:
+  logistics: <span class="deadline">HW3 due 03/28</span> 
+      <span class="event">HW4 out</span>
 
 - date: T 03/31
   lecturer:
@@ -471,8 +471,7 @@
     - Aytar et al. <a href="https://arxiv.org/abs/1805.11592" target="_blank">Playing hard exploration games by watching YouTube</a>
     - Zhu et al. <a href="https://arxiv.org/abs/1802.09564" target="_blank">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</a>
     - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
-  logistics: <span class="deadline">HW4 due</span>
-    <span class="event">HW5 out</span>
+  logistics: 
 
 - date: F 04/03
   lecturer:
@@ -506,7 +505,8 @@
     - Pathak et al. <a href="https://pathak22.github.io/noreward-rl/resources/icml17.pdf" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
     - Pathak et al. <a href="https://pathak22.github.io/exploration-by-disagreement//" target="_blank">Self-Supervised Exploration via Disagreement</a>
     - Savinov et al. <a href="https://arxiv.org/abs/1810.02274/" target="_blank">Episodic Curiosity through Reachability</a>
-  logistics:
+  logistics: <span class="deadline">HW4 due</span>
+    <span class="event">HW5 out</span>
 
 - date: F 04/10
   lecturer:
