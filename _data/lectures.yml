@@ -272,8 +272,8 @@
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
     - Mnih et al. <a href="https://arxiv.org/abs/1602.01783" target="_blank">Asynchronous Methods for Deep Reinforcement Learning</a>
-    - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-deep-neural-networks-tree-search/" target="_blank">Mastering the Game of Go with Deep Neural Networks and Tree Search</a>
-    - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge/" target="_blank">Mastering the Game of Go without Human Knowledge</a>
+    # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-deep-neural-networks-tree-search/" target="_blank">Mastering the Game of Go with Deep Neural Networks and Tree Search</a>
+    # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge/" target="_blank">Mastering the Game of Go without Human Knowledge</a>
   logistics: <span class="deadline">HW2 due</span> <br>
     <span class="event">HW3 out</span>
 
@@ -294,38 +294,6 @@
 
 
 # ----------------------------- CONDUCTED --------------------------------------------------
-
-# - date: Th 02/20
-#   lecturer:
-#   title: >
-#     <strong>Planning with known models, Monte Carlo Tree Search (MCTS)</strong>
-#   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_15.pdf
-#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c13b556-1d74-46c2-8665-aae8010779cf
-#   notes:
-#   readings:
-#     - <a href="https://statweb.stanford.edu/~owen/mc/Ch-var-is.pdf" target="_blank">Monte Carlo Theory</a>, 9.1, 9.2
-#     - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank">Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
-#   logistics: <br><span class="event">HW2 out</span> <br>
-
-
-
-# - date: Th 03/05
-#   lecturer:
-#   title: >
-#     <strong>Actor-Critic Methods, Deterministic policy gradients</strong>
-#   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_12_1.pdf
-#   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_12_2.pdf
-#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e7cbf9d-6e81-4e7b-9093-aad80108fb94
-#   notes:
-#   readings:
-#     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
-#     - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
-#     - Fujimoto et al. <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
-#   logistics: <span class="deadline">HW2 due</span> <br>
-#     <span class="event">HW3 out</span>
-
-
-
 
 # - date: T 03/03
 #   lecturer:
@@ -380,34 +348,79 @@
 - date: T 03/17
   lecturer:
   title: >
-    <strong>Goal-conditioned policies, goal relabelling</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_13_1.pdf
-  # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_13_2.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c186a7b-4ddd-4e44-83a8-aad801090aa3
+    <strong>Policy gradients, Actor -Critic Methods</strong>
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture11.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=131de8e3-a760-4ff1-9802-aad80108eaa7
   notes:
   readings:
-    - Andrychowicz et al. <a href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a>
-    - Nair et al. <a href="https://arxiv.org/abs/1807.04742" target="_blank">Visual Reinforcement Learning with Imagined Goals</a>
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
+    - Mnih et al. <a href="https://arxiv.org/abs/1602.01783" target="_blank">Asynchronous Methods for Deep Reinforcement Learning</a>
+    - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
+    - Fujimoto et al. <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
   logistics: 
 
 
 - date: Th 03/19
   lecturer:
   title: >
-    <strong>Quiz 1</strong>
-  logistics:
+    <strong>Deep Deterministic policy gradients and Goal Relabelling</strong>
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_12_1.pdf
+  # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_12_2.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e7cbf9d-6e81-4e7b-9093-aad80108fb94
+  notes:
+  readings:
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
+    - Andrychowicz et al. <a href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a>
+    - Nair et al. <a href="https://arxiv.org/abs/1807.04742" target="_blank">Visual Reinforcement Learning with Imagined Goals</a>
+  logistics: 
+    <span class="deadline"> Quiz 1 </span> 
+
 
 - date: F 03/20
   lecturer:
   title: >
-    <strong>REC: Graph Neural Networks</strong>
+    <strong>Planning and Learning, Monte Carlo Tree Search</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_17.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f68ee964-49b6-4a30-a32d-aaed01072cda
   notes:
   readings:
-    - Battaglia et al. <a href="https://arxiv.org/abs/1612.00222" target="_blank">Interaction Networks for Learning about Objects, Relations and Physics</a>
-    - Zambaldi et al. <a href="https://arxiv.org/abs/1806.01830" target="_blank">Relational Deep Reinforcement Learning</a>
+    - <a href="https://statweb.stanford.edu/~owen/mc/Ch-var-is.pdf" target="_blank">Monte Carlo Theory</a>, 9.1, 9.2
+    - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank">Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
+    - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-deep-neural-networks-tree-search/" target="_blank">Mastering the Game of Go with Deep Neural Networks and Tree Search</a>
+    - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge/" target="_blank">Mastering the Game of Go without Human Knowledge</a>
   logistics:
+
+
+# - date: F 03/20
+#   lecturer:
+#   title: >
+#     <strong>REC: Graph Neural Networks</strong>
+#   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_17.pdf
+#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f68ee964-49b6-4a30-a32d-aaed01072cda
+#   notes:
+#   readings:
+#     - Battaglia et al. <a href="https://arxiv.org/abs/1612.00222" target="_blank">Interaction Networks for Learning about Objects, Relations and Physics</a>
+#     - Zambaldi et al. <a href="https://arxiv.org/abs/1806.01830" target="_blank">Relational Deep Reinforcement Learning</a>
+#   logistics:
+
+
+# - date: T 03/17
+#   lecturer:
+#   title: >
+#     <strong>Goal-conditioned policies, goal relabelling</strong>
+#   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_13_1.pdf
+#   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_13_2.pdf
+#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c186a7b-4ddd-4e44-83a8-aad801090aa3
+#   notes:
+#   readings:
+#     - Andrychowicz et al. <a href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a>
+#     - Nair et al. <a href="https://arxiv.org/abs/1807.04742" target="_blank">Visual Reinforcement Learning with Imagined Goals</a>
+#   logistics: 
+
+
+
+
+
 
 - date: T 03/24
   lecturer:
