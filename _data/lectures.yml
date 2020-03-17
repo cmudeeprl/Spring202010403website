@@ -295,18 +295,7 @@
 
 # ----------------------------- CONDUCTED --------------------------------------------------
 
-# - date: T 03/03
-#   lecturer:
-#   title: >
-#     <strong>Natural Policy Gradients, Proximal Policy Optimization</strong>
-#   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_14.pdf
-#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=47c40d4c-113b-4151-a407-aae60106ef6c
-#   notes:
-#   readings:
-#     - Rajeswaran et al. <a href="https://arxiv.org/pdf/1703.02660.pdf" target="_blank">Towards Generalization and Simplicity in Continuous Control</a>
-#     - Schulman et al. <a href="https://arxiv.org/abs/1707.06347" target="_blank">Proximal Policy Optimization Algorithms</a>
-#     - Wu et al. <a href="https://papers.nips.cc/paper/7112-scalable-trust-region-method-for-deep-reinforcement-learning-using-kronecker-factored-approximation.pdf" target="_blank">Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation</a>
-#   logistics: 
+
 
 # - date: Th 03/05
 #   lecturer:
@@ -345,10 +334,18 @@
     Spring Break - No classes
   logistics:
 
+
 - date: T 03/17
   lecturer:
   title: >
-    <strong>Policy gradients, Actor -Critic Methods</strong>
+    <strong>Lecture cancelled</strong>
+  logistics:
+
+
+- date: Th 03/19
+  lecturer:
+  title: >
+    <strong>Policy gradients, Actor-Critic Methods</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture11.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=131de8e3-a760-4ff1-9802-aad80108eaa7
   notes:
@@ -360,39 +357,59 @@
   logistics: 
 
 
-# - date: Th 03/19
-#   lecturer:
-#   title: >
-#     <strong>Deep Deterministic policy gradients and Goal Relabelling</strong>
-#   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_12_1.pdf
-#   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_12_2.pdf
-#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e7cbf9d-6e81-4e7b-9093-aad80108fb94
-#   notes:
-#   readings:
-#     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
-#     - Andrychowicz et al. <a href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a>
-#     - Nair et al. <a href="https://arxiv.org/abs/1807.04742" target="_blank">Visual Reinforcement Learning with Imagined Goals</a>
-#   logistics: 
-#     <span class="deadline"> Quiz 1 </span> 
-    
-  
-- date: Th 03/19
+- date: F 03/20
   lecturer:
   title: >
-    <strong>Quiz 1</strong>
+    <strong>Deterministic policy gradients</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_12_1.pdf
   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_12_2.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e7cbf9d-6e81-4e7b-9093-aad80108fb94
   notes:
   readings:
-    # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
     # - Andrychowicz et al. <a href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a>
     # - Nair et al. <a href="https://arxiv.org/abs/1807.04742" target="_blank">Visual Reinforcement Learning with Imagined Goals</a>
+  logistics:
+    
+
+
+- date: T 03/24
+  lecturer:
+  title: >
+    <strong>Quiz 1</strong>
   logistics: 
-    # <span class="deadline"> Quiz 1 </span>   
 
 
-- date: F 03/20
+- date: Th 03/26
+  lecturer:
+  title: >
+    <strong>Natural Policy Gradients</strong>
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_14.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=47c40d4c-113b-4151-a407-aae60106ef6c
+  notes:
+  readings:
+    - Rajeswaran et al. <a href="https://arxiv.org/pdf/1703.02660.pdf" target="_blank">Towards Generalization and Simplicity in Continuous Control</a>
+    - Schulman et al. <a href="https://arxiv.org/abs/1707.06347" target="_blank">Proximal Policy Optimization Algorithms</a>
+    - Wu et al. <a href="https://papers.nips.cc/paper/7112-scalable-trust-region-method-for-deep-reinforcement-learning-using-kronecker-factored-approximation.pdf" target="_blank">Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation</a>
+  logistics: 
+
+
+
+- date: F 03/27
+  lecturer:
+  title: >
+    <strong>Goal relabelling</strong>
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_13_1.pdf
+  # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_13_2.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c186a7b-4ddd-4e44-83a8-aad801090aa3
+  notes:
+  readings:
+    - Andrychowicz et al. <a href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a>
+    - Nair et al. <a href="https://arxiv.org/abs/1807.04742" target="_blank">Visual Reinforcement Learning with Imagined Goals</a>
+  logistics: 
+    <span class="deadline">HW3 due 03/28 11:59pm</span> <br>
+  
+- date: T 03/31
   lecturer:
   title: >
     <strong>Planning and Learning, Monte Carlo Tree Search</strong>
@@ -420,25 +437,18 @@
 #   logistics:
 
 
-# - date: T 03/17
-#   lecturer:
-#   title: >
-#     <strong>Goal-conditioned policies, goal relabelling</strong>
-#   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_13_1.pdf
-#   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_13_2.pdf
-#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c186a7b-4ddd-4e44-83a8-aad801090aa3
-#   notes:
-#   readings:
-#     - Andrychowicz et al. <a href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a>
-#     - Nair et al. <a href="https://arxiv.org/abs/1807.04742" target="_blank">Visual Reinforcement Learning with Imagined Goals</a>
-#   logistics: 
 
 
 
 
 
 
-- date: T 03/24
+
+
+
+
+
+- date: Th 04/02
   lecturer:
   title: >
     <strong>Model learning and model-based RL in low dim state space</strong>
@@ -452,7 +462,7 @@
     - Pong et al. <a href="https://arxiv.org/pdf/1802.09081.pdf" target="_blank">Temporal Difference Models:Model-free deep RL for Model-Based Control</a>
   logistics:
 
-- date: Th 03/26
+- date: F 04/03
   lecturer: 
   title: >
     <strong>Model learning and model-based RL in high dimensional sensory space</strong>
@@ -465,17 +475,18 @@
     - Hafner et al. <a href="https://arxiv.org/pdf/1811.04551.pdf" target="_blank">Learning Latent Dynamics for Planning from Pixels</a>
     - Kipf et al. <a href="https://arxiv.org/abs/1911.12247" target="_blank">Contrastive Learning of Structured World Models</a>
   logistics: 
+    <span class="event">HW4 out</span>
 
-- date: F 03/27
-  lecturer:
-  title: >
-    <strong>REC</strong>
-  notes:
-  readings:
-  logistics: <span class="deadline">HW3 due 03/28 11:59pm</span> 
-      <span class="event">HW4 out</span>
+# - date: F 03/27
+#   lecturer:
+#   title: >
+#     <strong>REC</strong>
+#   notes:
+#   readings:
+#   logistics: <span class="deadline">HW3 due 03/28 11:59pm</span> 
+#       <span class="event">HW4 out</span>
 
-- date: T 03/31
+- date: T 04/07
   lecturer:
   title: >
     <strong>Model learning and view-invariant control with 3D inverse graphics networks</strong>
@@ -487,7 +498,7 @@
     - Harley et al. <a href="https://arxiv.org/abs/1906.03764" target="_blank">Visual Representation Learning with 3D View-Contrastive Inverse Graphics Networks</a>
   logistics:
 
-- date: Th 04/02
+- date: Th 04/09
   lecturer:
   title: >
     <strong>Learning from demonstations and task rewards</strong>
@@ -502,15 +513,15 @@
     - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
   logistics: 
 
-- date: F 04/03
-  lecturer:
-  title: >
-    <strong>REC: </strong>
-  notes:
-  readings:
-  logistics:
+# - date: F 04/03
+#   lecturer:
+#   title: >
+#     <strong>REC: </strong>
+#   notes:
+#   readings:
+#   logistics:
 
-- date: T 04/07
+- date: F 04/10
   lecturer:
   title: >
     <strong>iLQR, policy learning from imitating local controllers</strong>
@@ -521,7 +532,7 @@
     - Levine et al. <a href="https://graphics.stanford.edu/projects/gpspaper/gps_full.pdf" target="_blank">Guided Policy Search</a>
   logistics: 
 
-- date: Th 04/09
+- date: T 04/14
   lecturer:
   title: >
     <strong>Curiosity-driven and map-driven exploration</strong>
@@ -537,15 +548,15 @@
   logistics: <span class="deadline">HW4 due</span>
     <span class="event">HW5 out</span>
 
-- date: F 04/10
-  lecturer:
-  title: >
-    <strong>REC: HW 5</strong>
-  notes:
-  readings:
-  logistics:
+# - date: F 04/10
+#   lecturer:
+#   title: >
+#     <strong>REC: HW 5</strong>
+#   notes:
+#   readings:
+#   logistics:
 
-- date: T 04/14
+- date: Th 04/16
   lecturer:
   title: >
     <strong>Learning from visual demonstations (visual imitation)</strong>
@@ -557,11 +568,11 @@
     - Pathak et al. <a href="https://arxiv.org/abs/1804.08606" target="_blank">Zero-Shot Visual Imitation</a>
   logistics:
 
-- date: Th 04/16
-  lecturer:
-  title: >
-    No classes
-  logistics:
+# - date: Th 04/16
+#   lecturer:
+#   title: >
+#     No classes
+#   logistics:
 
 - date: F 04/17
   lecturer:
@@ -569,7 +580,7 @@
     Spring Carnival - No classes
   logistics:
 
-- date: Th 04/21
+- date: T 04/21
   lecturer:
   title: >
     <strong>Generalization in RL, Sim2Real transfer</strong>
