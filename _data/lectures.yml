@@ -352,7 +352,6 @@
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
     - Mnih et al. <a href="https://arxiv.org/abs/1602.01783" target="_blank">Asynchronous Methods for Deep Reinforcement Learning</a>
-    - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
     - Fujimoto et al. <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
   logistics: 
 
@@ -366,7 +365,7 @@
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e7cbf9d-6e81-4e7b-9093-aad80108fb94
   notes:
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
+    - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
     # - Andrychowicz et al. <a href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a>
     # - Nair et al. <a href="https://arxiv.org/abs/1807.04742" target="_blank">Visual Reinforcement Learning with Imagined Goals</a>
   logistics:
@@ -376,7 +375,7 @@
 - date: T 03/24
   lecturer:
   title: >
-    <strong>Quiz 1</strong>
+    <strong>Quiz 1 (online)</strong>
   logistics: 
 
 
@@ -628,21 +627,22 @@
     - Akkaya et al. <a href="https://arxiv.org/abs/1910.07113" target="_blank">Solving Rubik's Cube with a Robot Hand</a>
   logistics:
 
-- date: Th 04/30
+- date: M 05/11 5:30PM
   lecturer:
   title: >
-    <strong>Quiz 2</strong>
+    <strong>Quiz 2 (online)</strong>
   notes:
   readings:
   logistics:
 
-- date: F 05/01
-  lecturer:
-  title: >
-    <strong>REC: quiz 2 discussion</strong>
-  notes:
-  readings:
-  logistics:
+
+# - date: F 05/01
+#   lecturer:
+#   title: >
+#     <strong>REC: quiz 2 discussion</strong>
+#   notes:
+#   readings:
+#   logistics:
 
 - date:
   title:
