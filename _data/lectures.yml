@@ -347,7 +347,7 @@
   title: >
     <strong>Policy gradients, Actor-Critic Methods</strong>
   slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture12.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=131de8e3-a760-4ff1-9802-aad80108eaa7
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ef21a5e2-1b82-4f97-9f83-ab8400e24d5d
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
