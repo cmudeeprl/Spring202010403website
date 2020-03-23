@@ -359,10 +359,10 @@
 - date: F 03/20
   lecturer:
   title: >
-    <strong>Deterministic policy gradients</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_12_1.pdf
+    <strong>Deep deterministic policy gradient, Pathwise derivatives</strong>
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture13.pdf
   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_12_2.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e7cbf9d-6e81-4e7b-9093-aad80108fb94
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aae85e9a-b2f7-4051-998d-ab850127a75d
   notes:
   readings:
     - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
