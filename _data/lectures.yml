@@ -293,10 +293,6 @@
   logistics: 
 
 
-# ----------------------------- CONDUCTED --------------------------------------------------
-
-
-
 # - date: Th 03/05
 #   lecturer:
 #   title: >
@@ -383,8 +379,8 @@
   lecturer:
   title: >
     <strong>Natural Policy Gradients</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_14.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=47c40d4c-113b-4151-a407-aae60106ef6c
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture14.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=432bca99-a486-46eb-b341-ab8e013c49c7
   notes:
   readings:
     - Rajeswaran et al. <a href="https://arxiv.org/pdf/1703.02660.pdf" target="_blank">Towards Generalization and Simplicity in Continuous Control</a>
@@ -398,15 +394,20 @@
   lecturer:
   title: >
     <strong>Goal relabelling</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_13_1.pdf
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture_15.pdf
   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_13_2.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c186a7b-4ddd-4e44-83a8-aad801090aa3
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=55537534-8a91-4f96-9c7f-ab8e013c4a12
   notes:
   readings:
     - Andrychowicz et al. <a href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a>
     - Nair et al. <a href="https://arxiv.org/abs/1807.04742" target="_blank">Visual Reinforcement Learning with Imagined Goals</a>
   logistics: 
-    
+  
+
+
+# ----------------------------- CONDUCTED --------------------------------------------------
+
+
   
 - date: T 03/31
   lecturer:
