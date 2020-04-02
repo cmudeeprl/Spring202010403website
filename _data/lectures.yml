@@ -404,51 +404,52 @@
   logistics: 
   
 
-
-# ----------------------------- CONDUCTED --------------------------------------------------
-
-
-  
 - date: T 03/31
   lecturer:
   title: >
-    <strong>Planning and Learning, Monte Carlo Tree Search</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_17.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f68ee964-49b6-4a30-a32d-aaed01072cda
+    <strong>Monte Carlo Tree Search</strong>
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture16.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=261e1702-db0f-4912-9278-ab9101302d92
   notes:
   readings:
     - <a href="https://statweb.stanford.edu/~owen/mc/Ch-var-is.pdf" target="_blank">Monte Carlo Theory</a>, 9.1, 9.2
     - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank">Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
-    - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-deep-neural-networks-tree-search/" target="_blank">Mastering the Game of Go with Deep Neural Networks and Tree Search</a>
-    - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge/" target="_blank">Mastering the Game of Go without Human Knowledge</a>
   logistics:
-    <span class="deadline">HW3 due 04/01 11:59pm</span> <br>
-
-# - date: F 03/20
-#   lecturer:
-#   title: >
-#     <strong>REC: Graph Neural Networks</strong>
-#   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_17.pdf
-#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f68ee964-49b6-4a30-a32d-aaed01072cda
-#   notes:
-#   readings:
-#     - Battaglia et al. <a href="https://arxiv.org/abs/1612.00222" target="_blank">Interaction Networks for Learning about Objects, Relations and Physics</a>
-#     - Zambaldi et al. <a href="https://arxiv.org/abs/1806.01830" target="_blank">Relational Deep Reinforcement Learning</a>
-#   logistics:
 
 
-
-
-
-
-
-
-
-
+# ----------------------------- CONDUCTED --------------------------------------------------
 
 
 
 - date: Th 04/02
+  lecturer:
+  title: >
+    <strong>Monte Carlo Tree Search with Prior Knowledge</strong>
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_17.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f68ee964-49b6-4a30-a32d-aaed01072cda
+  notes:
+  readings:
+    - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-deep-neural-networks-tree-search/" target="_blank">Mastering the Game of Go with Deep Neural Networks and Tree Search</a>
+    - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge/" target="_blank">Mastering the Game of Go without Human Knowledge</a>
+  logistics:
+    
+
+- date: F 04/03
+  lecturer: 
+  title: >
+    <strong>REC: HW4 and HIndsight Experience Replay</strong>
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_17.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f5af510-f977-4634-8820-aaf80108ee41
+  notes:
+  readings:
+  logistics: 
+    <span class="deadline">HW3 due 04/05 11:59pm</span> <br>
+    <span class="event">HW4 out</span>
+
+
+
+
+- date: T 04/07
   lecturer:
   title: >
     <strong>Model learning and model-based RL in low dim state space</strong>
@@ -462,7 +463,7 @@
     - Pong et al. <a href="https://arxiv.org/pdf/1802.09081.pdf" target="_blank">Temporal Difference Models:Model-free deep RL for Model-Based Control</a>
   logistics:
 
-- date: F 04/03
+- date: Th 04/09
   lecturer: 
   title: >
     <strong>Model learning and model-based RL in high dimensional sensory space</strong>
@@ -475,43 +476,36 @@
     - Hafner et al. <a href="https://arxiv.org/pdf/1811.04551.pdf" target="_blank">Learning Latent Dynamics for Planning from Pixels</a>
     - Kipf et al. <a href="https://arxiv.org/abs/1911.12247" target="_blank">Contrastive Learning of Structured World Models</a>
   logistics: 
+    <span class="deadline">HW3 due 04/05 11:59pm</span> <br>
     <span class="event">HW4 out</span>
 
-# - date: F 03/27
+
+# - date: T 04/07
 #   lecturer:
 #   title: >
-#     <strong>REC</strong>
+#     <strong>Model learning and view-invariant control with 3D inverse graphics networks</strong>
+#   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_22.pdf
+#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=605352cc-987b-427b-b619-ab090117c673
 #   notes:
 #   readings:
-#   logistics: <span class="deadline">HW3 due 03/28 11:59pm</span> 
-#       <span class="event">HW4 out</span>
+#     - Tung et al. <a href="https://arxiv.org/abs/1901.00003" target="_blank">Learning Spatial Common Sense with Geometry-Aware Recurrent Networks</a>
+#     - Harley et al. <a href="https://arxiv.org/abs/1906.03764" target="_blank">Visual Representation Learning with 3D View-Contrastive Inverse Graphics Networks</a>
+#   logistics:
 
-- date: T 04/07
-  lecturer:
-  title: >
-    <strong>Model learning and view-invariant control with 3D inverse graphics networks</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_22.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=605352cc-987b-427b-b619-ab090117c673
-  notes:
-  readings:
-    - Tung et al. <a href="https://arxiv.org/abs/1901.00003" target="_blank">Learning Spatial Common Sense with Geometry-Aware Recurrent Networks</a>
-    - Harley et al. <a href="https://arxiv.org/abs/1906.03764" target="_blank">Visual Representation Learning with 3D View-Contrastive Inverse Graphics Networks</a>
-  logistics:
-
-- date: Th 04/09
-  lecturer:
-  title: >
-    <strong>Learning from demonstations and task rewards</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_23.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fc89c296-5db3-4af2-bf14-ab0b0117a22c
-  notes:
-  readings:
-    - Gao et al. <a href="https://arxiv.org/abs/1802.05313" target="_blank">Reinforcement Learning from Imperfect Demonstrations</a>
-    - Hester et al. <a href="https://arxiv.org/abs/1704.03732" target="_blank">Deep Q-learning from Demonstrations</a>
-    - Aytar et al. <a href="https://arxiv.org/abs/1805.11592" target="_blank">Playing hard exploration games by watching YouTube</a>
-    - Zhu et al. <a href="https://arxiv.org/abs/1802.09564" target="_blank">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</a>
-    - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
-  logistics: 
+# - date: Th 04/09
+#   lecturer:
+#   title: >
+#     <strong>Learning from demonstations and task rewards</strong>
+#   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_23.pdf
+#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fc89c296-5db3-4af2-bf14-ab0b0117a22c
+#   notes:
+#   readings:
+#     - Gao et al. <a href="https://arxiv.org/abs/1802.05313" target="_blank">Reinforcement Learning from Imperfect Demonstrations</a>
+#     - Hester et al. <a href="https://arxiv.org/abs/1704.03732" target="_blank">Deep Q-learning from Demonstrations</a>
+#     - Aytar et al. <a href="https://arxiv.org/abs/1805.11592" target="_blank">Playing hard exploration games by watching YouTube</a>
+#     - Zhu et al. <a href="https://arxiv.org/abs/1802.09564" target="_blank">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</a>
+#     - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+#   logistics: 
 
 # - date: F 04/03
 #   lecturer:
