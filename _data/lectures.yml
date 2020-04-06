@@ -425,8 +425,8 @@
   lecturer:
   title: >
     <strong>Monte Carlo Tree Search with Prior Knowledge</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_17.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f68ee964-49b6-4a30-a32d-aaed01072cda
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture17.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=188934c1-012e-4cdf-b17f-ab9500f1b308
   notes:
   readings:
     - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-deep-neural-networks-tree-search/" target="_blank">Mastering the Game of Go with Deep Neural Networks and Tree Search</a>
@@ -437,8 +437,8 @@
 - date: F 04/03
   lecturer: 
   title: >
-    <strong>REC: HW4 and HIndsight Experience Replay</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_17.pdf
+    <strong>REC: HW3 : Common Challenges</strong>
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_rec_hw3.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f5af510-f977-4634-8820-aaf80108ee41
   notes:
   readings:
@@ -452,7 +452,8 @@
 - date: T 04/07
   lecturer:
   title: >
-    <strong>Model learning and model-based RL in low dim state space</strong>
+    <strong>Model-based RL</strong>
+  # <strong>Model learning and model-based RL in low dim state space</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_16.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f68ee964-49b6-4a30-a32d-aaed01072cda
   notes:
