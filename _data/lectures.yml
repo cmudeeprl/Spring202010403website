@@ -417,7 +417,6 @@
   logistics:
 
 
-# ----------------------------- CONDUCTED --------------------------------------------------
 
 
 
@@ -447,22 +446,22 @@
     <span class="event">HW4 out</span>
 
 
-
-
 - date: T 04/07
   lecturer:
   title: >
-    <strong>Model-based RL</strong>
-  # <strong>Model learning and model-based RL in low dim state space</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_16.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f68ee964-49b6-4a30-a32d-aaed01072cda
+    <strong>Model-based RL in low dimensional state space</strong>
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture18.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7da5add8-9f73-431c-bba0-ab98011f981a
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch1, Ch2
     - Nagabandi et al. <a href="https://arxiv.org/abs/1708.02596" target="_blank">Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning</a>
     - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
-    - Pong et al. <a href="https://arxiv.org/pdf/1802.09081.pdf" target="_blank">Temporal Difference Models:Model-free deep RL for Model-Based Control</a>
+    # - Pong et al. <a href="https://arxiv.org/pdf/1802.09081.pdf" target="_blank">Temporal Difference Models:Model-free deep RL for Model-Based Control</a>
   logistics:
+
+
+# ----------------------------- CONDUCTED --------------------------------------------------
 
 - date: Th 04/09
   lecturer: 
@@ -477,8 +476,7 @@
     - Hafner et al. <a href="https://arxiv.org/pdf/1811.04551.pdf" target="_blank">Learning Latent Dynamics for Planning from Pixels</a>
     - Kipf et al. <a href="https://arxiv.org/abs/1911.12247" target="_blank">Contrastive Learning of Structured World Models</a>
   logistics: 
-    <span class="deadline">HW3 due 04/05 11:59pm</span> <br>
-    <span class="event">HW4 out</span>
+    
 
 
 # - date: T 04/07

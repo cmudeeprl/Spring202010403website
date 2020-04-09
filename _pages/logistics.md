@@ -141,7 +141,7 @@ All violations (even the first violation) of the academic integrity or collabora
 Each student has a total of **10 grace days** that may be applied to the homework assignments.
 **No more than 3 grace days may be used on any single assignment**.
 
-Any assignment submitted more than 3 days past the deadline will get **zero credit**.
+Any assignment submitted more than 3 days past the deadline (or the date the student no longer has late day credit) will get **zero credit**.
 
 Grace days will be **subtracted from all students in the homework team**. E.g. an assignment submitted 1 day late by a team of 2 people will result in both team members losing 1 grace day from their total allotment.
 
