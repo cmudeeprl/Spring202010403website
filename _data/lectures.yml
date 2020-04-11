@@ -461,14 +461,13 @@
   logistics:
 
 
-# ----------------------------- CONDUCTED --------------------------------------------------
 
 - date: Th 04/09
   lecturer: 
   title: >
-    <strong>Model learning and model-based RL in high dimensional sensory space</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_17.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f5af510-f977-4634-8820-aaf80108ee41
+    <strong>Model-based RL in high dimensional sensory space</strong>
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture19.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a4db30e-c7b3-43d6-8400-ab9a016dd0c4
   notes:
   readings:
     - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
@@ -477,6 +476,18 @@
     - Kipf et al. <a href="https://arxiv.org/abs/1911.12247" target="_blank">Contrastive Learning of Structured World Models</a>
   logistics: 
     
+
+- date: F 04/10
+  lecturer:
+  title: >
+    <strong>REC: HW4</strong>
+  slides:  https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_rec_hw4.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3f46f9be-9612-4fb1-8d53-ab9a016e8183
+  notes:
+  readings:
+  logistics: 
+
+# ----------------------------- CONDUCTED --------------------------------------------------
 
 
 # - date: T 04/07
@@ -514,16 +525,6 @@
 #   readings:
 #   logistics:
 
-- date: F 04/10
-  lecturer:
-  title: >
-    <strong>iLQR, policy learning from imitating local controllers</strong>
-  # slides:  https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_18.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=62a2bfc9-5fc1-4c7f-8174-aafb01168b08
-  notes:
-  readings:
-    - Levine et al. <a href="https://graphics.stanford.edu/projects/gpspaper/gps_full.pdf" target="_blank">Guided Policy Search</a>
-  logistics: 
 
 - date: T 04/14
   lecturer:
@@ -538,8 +539,7 @@
     - Pathak et al. <a href="https://pathak22.github.io/noreward-rl/resources/icml17.pdf" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
     - Pathak et al. <a href="https://pathak22.github.io/exploration-by-disagreement//" target="_blank">Self-Supervised Exploration via Disagreement</a>
     - Savinov et al. <a href="https://arxiv.org/abs/1810.02274/" target="_blank">Episodic Curiosity through Reachability</a>
-  logistics: <span class="deadline">HW4 due</span>
-    <span class="event">HW5 out</span>
+  logistics: 
 
 # - date: F 04/10
 #   lecturer:
@@ -560,6 +560,9 @@
     - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV - Reinforcement Learning of Physical Skills from Videos</a>
     - Pathak et al. <a href="https://arxiv.org/abs/1804.08606" target="_blank">Zero-Shot Visual Imitation</a>
   logistics:
+    <span class="deadline">HW4 due 04/19 11:59pm</span> <br>
+    <span class="event">HW5 out</span>
+
 
 # - date: Th 04/16
 #   lecturer:
@@ -587,7 +590,8 @@
     - Chetobar et al. <a href="https://arxiv.org/abs/1810.05687" target="_blank">Closing the Sim-to-Real Loop - Adapting Simulation Randomization with Real World Experience</a>
     - Bousmalis et al. <a href="https://arxiv.org/abs/1709.07857" target="_blank">Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping</a>
     - Zhu et al. <a href="https://arxiv.org/abs/1703.10593" target="_blank">Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks</a>
-  logistics:
+  logistics: 
+
 
 - date: Th 04/23
   lecturer:
@@ -600,7 +604,7 @@
     - Botvinick et al. <a href="https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0" target="_blank">Reinforcement Learning, Fast and Slow</a>
     - Duan et al. <a href="https://arxiv.org/abs/1611.02779" target="_blank">RL2&#58; Fast Reinforcement Learning via Slow Reinforcement Learning</a>
     - Clavera et al. <a href="https://pdfs.semanticscholar.org/39ce/85ad322571b1bdc1d79ee10b9d608960374c.pdf?_ga=2.252655307.391011989.1574704506-1067889836.1572744668" target="_blank">Learning to Adapt&#58; Meta-Learning for Model-Based Control</a>
-  logistics: <span class="deadline">HW5 due</span>
+  logistics: 
 
 - date: F 04/24
   lecturer:
@@ -620,6 +624,7 @@
   readings:
     - Akkaya et al. <a href="https://arxiv.org/abs/1910.07113" target="_blank">Solving Rubik's Cube with a Robot Hand</a>
   logistics:
+    <span class="deadline">HW5 due</span>
 
 - date: M 05/11 5:30PM
   lecturer:
