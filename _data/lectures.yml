@@ -465,15 +465,18 @@
 - date: Th 04/09
   lecturer: 
   title: >
-    <strong>Model-based RL in high dimensional sensory space</strong>
+    <strong>Model Learning and Model-based RL in high dimensional sensory space</strong>
   slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture19.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a4db30e-c7b3-43d6-8400-ab9a016dd0c4
   notes:
   readings:
     - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
-    - Ebert et al. <a href="https://arxiv.org/abs/1710.05268" target="_blank">Self-Supervised Visual Planning with Temporal Skip Connections</a>
-    - Hafner et al. <a href="https://arxiv.org/pdf/1811.04551.pdf" target="_blank">Learning Latent Dynamics for Planning from Pixels</a>
-    - Kipf et al. <a href="https://arxiv.org/abs/1911.12247" target="_blank">Contrastive Learning of Structured World Models</a>
+    - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Model Based Reinforcement Learning for Atari</a>
+    - Fragkiadaki et al. <a href="https://arxiv.org/pdf/1511.07404.pdf" target="_blank">Learning Visual Predictive Models of Physics for playing billiards</a>
+    - <a href="https://papers.nips.cc/paper/6418-interaction-networks-for-learning-about-objects-relations-and-physics.pdf" target="_blank">Interaction Networks for Learning about Objects, Relations and Physics</a>
+    - <a href="http://snap.stanford.edu/proj/embeddings-www/" target="_blank">Tutorial - Representation Learning on Networks</a>
+    # - Ebert et al. <a href="https://arxiv.org/abs/1710.05268" target="_blank">Self-Supervised Visual Planning with Temporal Skip Connections</a>
+    # - Hafner et al. <a href="https://arxiv.org/pdf/1811.04551.pdf" target="_blank">Learning Latent Dynamics for Planning from Pixels</a>
   logistics: 
     
 
@@ -525,11 +528,25 @@
 #   readings:
 #   logistics:
 
+- date: T 04/14
+  lecturer:
+  title: >
+    <strong>Model Learning and Model-based RL in sensory space (contd.)</strong>
+  # slides: 
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f07c1590-eb15-44cb-95bc-aaf401210c76
+  notes:
+  readings:
+    - Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a> 
+    - Oord et al. <a href="https://arxiv.org/pdf/1807.03748.pdf" target="_blank">Representation Learning with Contrastive Predictive Coding</a>
+    - Kipf et al. <a href="https://arxiv.org/abs/1911.12247" target="_blank">Contrastive Learning of Structured World Models</a>
+    - Gonzalez et al. <a href="https://arxiv.org/pdf/1806.01242.pdf" target="_blank">Graph Networks as Learnable Physics Engines for Inference and Control</a>
+  logistics: 
 
 - date: T 04/14
   lecturer:
   title: >
-    <strong>Curiosity-driven and map-driven exploration</strong>
+    <strong>Intelligent Exploration using Curiosity and External memory</strong>
+  # <strong>Curiosity-driven and map-driven exploration</strong>
   # slides: 
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f07c1590-eb15-44cb-95bc-aaf401210c76
   notes:
@@ -549,19 +566,19 @@
 #   readings:
 #   logistics:
 
-- date: Th 04/16
-  lecturer:
-  title: >
-    <strong>Learning from visual demonstations (visual imitation)</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_20.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a36ec736-d6d4-4f98-ad6d-ab020117bf36
-  notes:
-  readings:
-    - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV - Reinforcement Learning of Physical Skills from Videos</a>
-    - Pathak et al. <a href="https://arxiv.org/abs/1804.08606" target="_blank">Zero-Shot Visual Imitation</a>
-  logistics:
-    <span class="deadline">HW4 due 04/19 11:59pm</span> <br>
-    <span class="event">HW5 out</span>
+# - date: Th 04/16
+#   lecturer:
+#   title: >
+#     <strong>Learning from visual demonstations (visual imitation)</strong>
+#   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_20.pdf
+#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a36ec736-d6d4-4f98-ad6d-ab020117bf36
+#   notes:
+#   readings:
+#     - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV - Reinforcement Learning of Physical Skills from Videos</a>
+#     - Pathak et al. <a href="https://arxiv.org/abs/1804.08606" target="_blank">Zero-Shot Visual Imitation</a>
+#   logistics:
+#     <span class="deadline">HW4 due 04/19 11:59pm</span> <br>
+#     <span class="event">HW5 out</span>
 
 
 # - date: Th 04/16
