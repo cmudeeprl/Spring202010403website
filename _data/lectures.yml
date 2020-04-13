@@ -473,7 +473,7 @@
     - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
     - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Model Based Reinforcement Learning for Atari</a>
     - Fragkiadaki et al. <a href="https://arxiv.org/pdf/1511.07404.pdf" target="_blank">Learning Visual Predictive Models of Physics for playing billiards</a>
-    - <a href="https://papers.nips.cc/paper/6418-interaction-networks-for-learning-about-objects-relations-and-physics.pdf" target="_blank">Interaction Networks for Learning about Objects, Relations and Physics</a>
+    - Battaglia et al. <a href="https://arxiv.org/abs/1612.00222" target="_blank">Interaction Networks for Learning about Objects, Relations and Physics</a>
     - <a href="http://snap.stanford.edu/proj/embeddings-www/" target="_blank">Tutorial - Representation Learning on Networks</a>
     # - Ebert et al. <a href="https://arxiv.org/abs/1710.05268" target="_blank">Self-Supervised Visual Planning with Temporal Skip Connections</a>
     # - Hafner et al. <a href="https://arxiv.org/pdf/1811.04551.pdf" target="_blank">Learning Latent Dynamics for Planning from Pixels</a>
@@ -542,7 +542,7 @@
     - Gonzalez et al. <a href="https://arxiv.org/pdf/1806.01242.pdf" target="_blank">Graph Networks as Learnable Physics Engines for Inference and Control</a>
   logistics: 
 
-- date: T 04/14
+- date: Th 04/16
   lecturer:
   title: >
     <strong>Intelligent Exploration using Curiosity and External memory</strong>
