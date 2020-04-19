@@ -532,8 +532,8 @@
   lecturer:
   title: >
     <strong>Model Learning and Model-based RL in sensory space (contd.)</strong>
-  # slides: 
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f07c1590-eb15-44cb-95bc-aaf401210c76
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture20.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=40c4505d-3723-448b-aaee-aba200206a9e
   notes:
   readings:
     - Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a> 
@@ -545,10 +545,9 @@
 - date: Th 04/16
   lecturer:
   title: >
-    <strong>Intelligent Exploration using Curiosity and External memory</strong>
-  # <strong>Curiosity-driven and map-driven exploration</strong>
-  # slides: 
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f07c1590-eb15-44cb-95bc-aaf401210c76
+    <strong>Explora(on guided by Curiosity and External Memory</strong>
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture21.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3631efb3-9352-4e4f-9d57-aba200206a71
   notes:
   readings:
     - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore:a New Approach for Hard-Exploration Problems</a> 
@@ -590,8 +589,13 @@
 - date: F 04/17
   lecturer:
   title: >
-    Spring Carnival - No classes
+    REC: HW4 - Common Issues
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_rec_hw4_2.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3a75979a-58ef-4ed5-9330-aba20020011a
   logistics:
+    <span class="deadline">HW4 due 04/19 11:59pm</span> <br>
+    <span class="event">HW5 out</span>
+
 
 - date: T 04/21
   lecturer:
