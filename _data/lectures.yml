@@ -545,7 +545,7 @@
 - date: Th 04/16
   lecturer:
   title: >
-    <strong>Explora(on guided by Curiosity and External Memory</strong>
+    <strong>Exploration guided by Curiosity and External Memory</strong>
   slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture21.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3631efb3-9352-4e4f-9d57-aba200206a71
   notes:
@@ -596,21 +596,35 @@
     <span class="deadline">HW4 due 04/19 11:59pm</span> <br>
     <span class="event">HW5 out</span>
 
+# - date: T 04/21
+#   lecturer:
+#   title: >
+#     <strong>Generalization in RL, Sim2Real transfer</strong>
+#   slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture22.pdf
+#   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=697ded96-c212-4527-849d-aba700aef50a
+#   notes:
+#   readings:
+#     - Rajeswaran et al. <a href="https://arxiv.org/abs/1610.01283" target="_blank">EPOpt - Learning Robust Neural Network Policies Using Model Ensembles</a>
+#     - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
+#     - Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
+#     - Chetobar et al. <a href="https://arxiv.org/abs/1810.05687" target="_blank">Closing the Sim-to-Real Loop - Adapting Simulation Randomization with Real World Experience</a>
+#     - Bousmalis et al. <a href="https://arxiv.org/abs/1709.07857" target="_blank">Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping</a>
+#     - Zhu et al. <a href="https://arxiv.org/abs/1703.10593" target="_blank">Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks</a>
+#   logistics: 
 
 - date: T 04/21
   lecturer:
   title: >
-    <strong>Generalization in RL, Sim2Real transfer</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_21.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=009effc6-07f3-4f77-a159-ab0401168eb3
+    <strong>Exploration guided by Curiosity and External Memory (contd.)</strong>
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture22.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=697ded96-c212-4527-849d-aba700aef50a
   notes:
   readings:
-    - Rajeswaran et al. <a href="https://arxiv.org/abs/1610.01283" target="_blank">EPOpt - Learning Robust Neural Network Policies Using Model Ensembles</a>
-    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
-    - Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
-    - Chetobar et al. <a href="https://arxiv.org/abs/1810.05687" target="_blank">Closing the Sim-to-Real Loop - Adapting Simulation Randomization with Real World Experience</a>
-    - Bousmalis et al. <a href="https://arxiv.org/abs/1709.07857" target="_blank">Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping</a>
-    - Zhu et al. <a href="https://arxiv.org/abs/1703.10593" target="_blank">Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks</a>
+    - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore:a New Approach for Hard-Exploration Problems</a> 
+    - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
+    - Pathak et al. <a href="https://pathak22.github.io/noreward-rl/resources/icml17.pdf" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
+    - Pathak et al. <a href="https://pathak22.github.io/exploration-by-disagreement//" target="_blank">Self-Supervised Exploration via Disagreement</a>
+    - Savinov et al. <a href="https://arxiv.org/abs/1810.02274/" target="_blank">Episodic Curiosity through Reachability</a>
   logistics: 
 
 
