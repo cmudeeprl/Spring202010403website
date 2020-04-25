@@ -490,7 +490,6 @@
   readings:
   logistics: 
 
-# ----------------------------- CONDUCTED --------------------------------------------------
 
 
 # - date: T 04/07
@@ -631,35 +630,52 @@
 - date: Th 04/23
   lecturer:
   title: >
-    <strong>Meta-Learning, fast learning within few interactions, learning to learn fast</strong>
-  # slides:
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff2821b7-569d-48e6-94cf-ab10011857b4
+    <strong>The Dance of Data and Doers: A Trajectory-Oriented Perspective on RL (Guest Lecture by Ben Eysenbach)</strong>
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture23_1.pdf
+  slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture23_2.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a9812db-13ad-413f-8c1a-aba8015d49a5
   notes:
   readings:
-    - Botvinick et al. <a href="https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0" target="_blank">Reinforcement Learning, Fast and Slow</a>
-    - Duan et al. <a href="https://arxiv.org/abs/1611.02779" target="_blank">RL2&#58; Fast Reinforcement Learning via Slow Reinforcement Learning</a>
-    - Clavera et al. <a href="https://pdfs.semanticscholar.org/39ce/85ad322571b1bdc1d79ee10b9d608960374c.pdf?_ga=2.252655307.391011989.1574704506-1067889836.1572744668" target="_blank">Learning to Adapt&#58; Meta-Learning for Model-Based Control</a>
+    - Eysenbach et al. <a href="https://arxiv.org/pdf/1906.05253.pdf" target="_blank"> Search on the Replay Buffer- Bridging Planning and Reinforcement Learning </a>
   logistics: 
+
+# - date: Th 04/23
+#   lecturer:
+#   title: >
+#     <strong>Meta-Learning, fast learning within few interactions, learning to learn fast</strong>
+#   slides:
+#   slides2: 
+#   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff2821b7-569d-48e6-94cf-ab10011857b4
+#   notes:
+#   readings:
+#     - Botvinick et al. <a href="https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0" target="_blank">Reinforcement Learning, Fast and Slow</a>
+#     - Duan et al. <a href="https://arxiv.org/abs/1611.02779" target="_blank">RL2&#58; Fast Reinforcement Learning via Slow Reinforcement Learning</a>
+#     - Clavera et al. <a href="https://pdfs.semanticscholar.org/39ce/85ad322571b1bdc1d79ee10b9d608960374c.pdf?_ga=2.252655307.391011989.1574704506-1067889836.1572744668" target="_blank">Learning to Adapt&#58; Meta-Learning for Model-Based Control</a>
+  # logistics: 
 
 - date: F 04/24
   lecturer:
   title: >
-    <strong>REC: revision for quiz 2</strong>
+    <strong>Learning and Planning: Temporal abstraction in model based control</strong>
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture24.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d9e3a13e-510d-47b9-80d6-aba8015d49e1
   notes:
   readings:
+    - Agarwal et al. <a href="https://www.cs.cmu.edu/~katef/papers/modellookahead.pdf" target="_blank">Model Learning for Look-ahead Exploration in Continuous Control </a>
+    - Co-Reyes et al. <a href="https://arxiv.org/pdf/1806.02813.pdf" target="_blank"> Self-Consistent Trajectory Autoencoder - Hierarchical Reinforcement Learning with Trajectory Embeddings</a>
   logistics:
 
+# ----------------------------- CONDUCTED --------------------------------------------------
 - date: T 04/28
   lecturer:
   title: >
-    <strong>Putting it all together: State estimation, memory architectures, planning and RL</strong>
+    <strong>Learning with demonstations and reinforcement, Off-policy RL</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_25.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff2821b7-569d-48e6-94cf-ab10011857b4
   notes: 
   readings:
-    - Akkaya et al. <a href="https://arxiv.org/abs/1910.07113" target="_blank">Solving Rubik's Cube with a Robot Hand</a>
   logistics:
-    <span class="deadline">HW5 due</span>
+    <span class="deadline">HW5 due 05/01 11:59PM</span>
 
 - date: M 05/11 5:30PM
   lecturer:
