@@ -634,8 +634,8 @@
   lecturer:
   title: >
     <strong>Off-policy RL, Sim2Real transfer</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_25.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff2821b7-569d-48e6-94cf-ab10011857b4
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture25.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=77ffb580-a960-4806-846d-abaf0131e8e6
   notes: 
   readings:
     - Rajeswaran et al. <a href="https://arxiv.org/abs/1610.01283" target="_blank">EPOpt - Learning Robust Neural Network Policies Using Model Ensembles</a>
@@ -669,8 +669,8 @@
   lecturer:
   title: >
     <strong>A closer look to state representations - Inverse graphics networks and RL</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_22.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=605352cc-987b-427b-b619-ab090117c673
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture26.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e306c64a-db91-459f-a423-abaf0131e87e
   notes:
   readings:
     - Tung et al. <a href="https://arxiv.org/abs/1901.00003" target="_blank">Learning Spatial Common Sense with Geometry-Aware Recurrent Networks</a>
@@ -682,8 +682,8 @@
   lecturer:
   title: >
     <strong>Learning from visual demonstations (visual imitation)</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_20.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a36ec736-d6d4-4f98-ad6d-ab020117bf36
+  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture27.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46a3146a-3ea6-44ef-8d17-abaf0131e8aa
   notes:
   readings:
     - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV - Reinforcement Learning of Physical Skills from Videos</a>
