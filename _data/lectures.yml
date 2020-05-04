@@ -588,7 +588,7 @@
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a9812db-13ad-413f-8c1a-aba8015d49a5
   notes:
   readings:
-    - <reading class="important">Eysenbach et al. <a href="https://arxiv.org/pdf/1906.05253.pdf" target="_blank"> Search on the Replay Buffer- Bridging Planning and Reinforcement Learning </a></reading>
+    - Eysenbach et al. <a href="https://arxiv.org/pdf/1906.05253.pdf" target="_blank"> Search on the Replay Buffer- Bridging Planning and Reinforcement Learning </a>
   logistics: 
 
 # - date: Th 04/23
