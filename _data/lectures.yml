@@ -399,8 +399,8 @@
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=55537534-8a91-4f96-9c7f-ab8e013c4a12
   notes:
   readings:
-    - Andrychowicz et al. <a href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a>
-    - Nair et al. <a href="https://arxiv.org/abs/1807.04742" target="_blank">Visual Reinforcement Learning with Imagined Goals</a>
+    - <reading class="important">Andrychowicz et al. <a href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a></reading>
+    - <reading class="important">Nair et al. <a href="https://arxiv.org/abs/1807.04742" target="_blank">Visual Reinforcement Learning with Imagined Goals</a></reading>
   logistics: 
   
 
@@ -413,7 +413,7 @@
   notes:
   readings:
     - <a href="https://statweb.stanford.edu/~owen/mc/Ch-var-is.pdf" target="_blank">Monte Carlo Theory</a>, 9.1, 9.2
-    - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank">Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
+    - <reading class="important">Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank">Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a></reading>
   logistics:
 
 
@@ -428,8 +428,8 @@
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=188934c1-012e-4cdf-b17f-ab9500f1b308
   notes:
   readings:
-    - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-deep-neural-networks-tree-search/" target="_blank">Mastering the Game of Go with Deep Neural Networks and Tree Search</a>
-    - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge/" target="_blank">Mastering the Game of Go without Human Knowledge</a>
+    - <reading class="important">Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-deep-neural-networks-tree-search/" target="_blank">Mastering the Game of Go with Deep Neural Networks and Tree Search</a></reading>
+    - <reading class="important">Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge/" target="_blank">Mastering the Game of Go without Human Knowledge</a></reading>
   logistics:
     
 
@@ -456,7 +456,7 @@
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch1, Ch2
     - Nagabandi et al. <a href="https://arxiv.org/abs/1708.02596" target="_blank">Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning</a>
-    - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
+    - <reading class="important">Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a></reading>
     # - Pong et al. <a href="https://arxiv.org/pdf/1802.09081.pdf" target="_blank">Temporal Difference Models:Model-free deep RL for Model-Based Control</a>
   logistics:
 
@@ -470,10 +470,10 @@
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a4db30e-c7b3-43d6-8400-ab9a016dd0c4
   notes:
   readings:
-    - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
+    - <reading class="important">Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a></reading>
     - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Model Based Reinforcement Learning for Atari</a>
     - Fragkiadaki et al. <a href="https://arxiv.org/pdf/1511.07404.pdf" target="_blank">Learning Visual Predictive Models of Physics for playing billiards</a>
-    - Battaglia et al. <a href="https://arxiv.org/abs/1612.00222" target="_blank">Interaction Networks for Learning about Objects, Relations and Physics</a>
+    - <reading class="important">Battaglia et al. <a href="https://arxiv.org/abs/1612.00222" target="_blank">Interaction Networks for Learning about Objects, Relations and Physics</a></reading>
     - <a href="http://snap.stanford.edu/proj/embeddings-www/" target="_blank">Tutorial - Representation Learning on Networks</a>
     # - Ebert et al. <a href="https://arxiv.org/abs/1710.05268" target="_blank">Self-Supervised Visual Planning with Temporal Skip Connections</a>
     # - Hafner et al. <a href="https://arxiv.org/pdf/1811.04551.pdf" target="_blank">Learning Latent Dynamics for Planning from Pixels</a>
@@ -514,7 +514,7 @@
     - Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a> 
     - Oord et al. <a href="https://arxiv.org/pdf/1807.03748.pdf" target="_blank">Representation Learning with Contrastive Predictive Coding</a>
     - Kipf et al. <a href="https://arxiv.org/abs/1911.12247" target="_blank">Contrastive Learning of Structured World Models</a>
-    - Gonzalez et al. <a href="https://arxiv.org/pdf/1806.01242.pdf" target="_blank">Graph Networks as Learnable Physics Engines for Inference and Control</a>
+    - <reading class="important">Gonzalez et al. <a href="https://arxiv.org/pdf/1806.01242.pdf" target="_blank">Graph Networks as Learnable Physics Engines for Inference and Control</a></reading>
   logistics: 
 
 - date: Th 04/16
@@ -525,11 +525,12 @@
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3631efb3-9352-4e4f-9d57-aba200206a71
   notes:
   readings:
-    - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore:a New Approach for Hard-Exploration Problems</a> 
-    - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
-    - Pathak et al. <a href="https://pathak22.github.io/noreward-rl/resources/icml17.pdf" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
-    - Pathak et al. <a href="https://pathak22.github.io/exploration-by-disagreement//" target="_blank">Self-Supervised Exploration via Disagreement</a>
-    - Savinov et al. <a href="https://arxiv.org/abs/1810.02274/" target="_blank">Episodic Curiosity through Reachability</a>
+    - <reading class="important">Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore:a New Approach for Hard-Exploration Problems</a> </reading>
+    - <reading class="important">Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a></reading>
+    - <reading class="important">Pathak et al. <a href="https://pathak22.github.io/noreward-rl/resources/icml17.pdf" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a></reading>
+    - <reading class="important">Savinov et al. <a href="https://arxiv.org/abs/1810.02274/" target="_blank">Episodic Curiosity through Reachability</a></reading>
+    # - Pathak et al. <a href="https://pathak22.github.io/exploration-by-disagreement//" target="_blank">Self-Supervised Exploration via Disagreement</a>
+    - Pathak et al. <a href="https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf" target="_blank">Large-Scale Study of Curiosity-Driven Learning</a>
   logistics: 
 
 # - date: F 04/10
@@ -572,7 +573,8 @@
     - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore:a New Approach for Hard-Exploration Problems</a> 
     - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
     - Pathak et al. <a href="https://pathak22.github.io/noreward-rl/resources/icml17.pdf" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
-    - Pathak et al. <a href="https://pathak22.github.io/exploration-by-disagreement//" target="_blank">Self-Supervised Exploration via Disagreement</a>
+    # - Pathak et al. <a href="https://pathak22.github.io/exploration-by-disagreement//" target="_blank">Self-Supervised Exploration via Disagreement</a>
+    - Pathak et al. <a href="https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf" target="_blank">Large-Scale Study of Curiosity-Driven Learning</a>
     - Savinov et al. <a href="https://arxiv.org/abs/1810.02274/" target="_blank">Episodic Curiosity through Reachability</a>
   logistics: 
 
@@ -586,7 +588,7 @@
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a9812db-13ad-413f-8c1a-aba8015d49a5
   notes:
   readings:
-    - Eysenbach et al. <a href="https://arxiv.org/pdf/1906.05253.pdf" target="_blank"> Search on the Replay Buffer- Bridging Planning and Reinforcement Learning </a>
+    - <reading class="important">Eysenbach et al. <a href="https://arxiv.org/pdf/1906.05253.pdf" target="_blank"> Search on the Replay Buffer- Bridging Planning and Reinforcement Learning </a></reading>
   logistics: 
 
 # - date: Th 04/23
@@ -611,7 +613,7 @@
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d9e3a13e-510d-47b9-80d6-aba8015d49e1
   notes:
   readings:
-    - Agarwal et al. <a href="https://www.cs.cmu.edu/~katef/papers/modellookahead.pdf" target="_blank">Model Learning for Look-ahead Exploration in Continuous Control </a>
+    - <reading class="important">Agarwal et al. <a href="https://www.cs.cmu.edu/~katef/papers/modellookahead.pdf" target="_blank">Model Learning for Look-ahead Exploration in Continuous Control </a></reading>
     - Co-Reyes et al. <a href="https://arxiv.org/pdf/1806.02813.pdf" target="_blank"> Self-Consistent Trajectory Autoencoder - Hierarchical Reinforcement Learning with Trajectory Embeddings</a>
   logistics:
 
@@ -624,11 +626,11 @@
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=77ffb580-a960-4806-846d-abaf0131e8e6
   notes: 
   readings:
-    - Rajeswaran et al. <a href="https://arxiv.org/abs/1610.01283" target="_blank">EPOpt - Learning Robust Neural Network Policies Using Model Ensembles</a>
-    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
-    - Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
-    - Chetobar et al. <a href="https://arxiv.org/abs/1810.05687" target="_blank">Closing the Sim-to-Real Loop - Adapting Simulation Randomization with Real World Experience</a>
-    - Bousmalis et al. <a href="https://arxiv.org/abs/1709.07857" target="_blank">Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping</a>
+    # - Rajeswaran et al. <a href="https://arxiv.org/abs/1610.01283" target="_blank">EPOpt - Learning Robust Neural Network Policies Using Model Ensembles</a>
+    - <reading class="important">Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a></reading>
+    - <reading class="important">Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a></reading>
+    # - Chetobar et al. <a href="https://arxiv.org/abs/1810.05687" target="_blank">Closing the Sim-to-Real Loop - Adapting Simulation Randomization with Real World Experience</a>
+    - <reading class="important">Bousmalis et al. <a href="https://arxiv.org/abs/1709.07857" target="_blank">Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping</a></reading>
     - Zhu et al. <a href="https://arxiv.org/abs/1703.10593" target="_blank">Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks</a>
   logistics:
     
@@ -656,7 +658,7 @@
 - date: Th 04/30
   lecturer:
   title: >
-    <strong>Learning from RL and demonstations, batch RL</strong>
+    <strong>Learning from RL and demonstrations, batch RL</strong>
   slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture26.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e306c64a-db91-459f-a423-abaf0131e87e
   notes:
@@ -664,8 +666,9 @@
     - Gao et al. <a href="https://arxiv.org/abs/1802.05313" target="_blank">Reinforcement Learning from Imperfect Demonstrations</a>
     - Hester et al. <a href="https://arxiv.org/abs/1704.03732" target="_blank">Deep Q-learning from Demonstrations</a>
     - Aytar et al. <a href="https://arxiv.org/abs/1805.11592" target="_blank">Playing hard exploration games by watching YouTube</a>
-    - Zhu et al. <a href="https://arxiv.org/abs/1802.09564" target="_blank">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</a>
-    - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    - <reading class="important">Zhu et al. <a href="https://arxiv.org/abs/1802.09564" target="_blank">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</a></reading>
+    - <reading class="important">Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a></reading>
+    - Salimans et al. <a href="https://arxiv.org/abs/1812.03381" target="_blank">Learning Montezuma's Revenge from a Single Demonstration</a></reading>
   logistics:
 
 # - date: Th 04/30
@@ -689,8 +692,8 @@
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46a3146a-3ea6-44ef-8d17-abaf0131e8aa
   notes:
   readings:
-    - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV - Reinforcement Learning of Physical Skills from Videos</a>
-    - Pathak et al. <a href="https://arxiv.org/abs/1804.08606" target="_blank">Zero-Shot Visual Imitation</a>
+    - <reading class="important">Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV - Reinforcement Learning of Physical Skills from Videos</a></reading>
+    - <reading class="important">Pathak et al. <a href="https://arxiv.org/abs/1804.08606" target="_blank">Zero-Shot Visual Imitation</a></reading>
   logistics:
     <span class="deadline">HW5 due 05/01 11:59PM</span>
 
